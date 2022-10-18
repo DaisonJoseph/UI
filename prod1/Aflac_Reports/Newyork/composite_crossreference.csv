@@ -1,0 +1,316 @@
+Instance,Source component,Source component app name,App Owner,Composite component,Called component,Called component app name
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DC40,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,NP00020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPX0040,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPX0010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,UPWRITE,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DC40A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DC42AFL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,VSAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,TLKUP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,TXCVDMYC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DTXQDATA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,TXCVMYTD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DISAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,IOCONTRL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPX1020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPX1010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPXISAM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPX1011,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPSNPMSA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD100,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC40X,DPRNPMSA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DC42,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NP00020,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX0040,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX0010,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DC42AFL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,MDPREMH,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,MDPREMA,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX8040,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,UPWRITE,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,TLKUP,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,TXCVDMYC,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DTXQDATA,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,TXCVMYTD,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,VSAMIO,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DISAMIO,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,IOCONTRL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX8045,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX8046,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPA8042,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPA8043,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPA1100,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX1011,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX1030,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX1012,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPGETNXE,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPGETEL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,MDPREMB,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,MDPREMD,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX1020,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX1010,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPXISAM,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPSNPMSA,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPRNPMSA,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPBLDIR,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPCOMREC,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,BNPPDR,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPA1000,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,DPX8047,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPADDEL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPGETPRV,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPGETLST,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,NPDELEL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",DC42X,BDPARCB,Actuarial
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,NNBIC215,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,NNBIC216,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,NNBIC217,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,PCCB0405,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,UTCB9010,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,UTCB9020,Life 70 - Underwriting
+Newyork,PCNPD050,Life 70 - Underwriting,"Hutto, Amy",NNBIC21X,DIUTIL1,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NP30060,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,UTAB0010,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NP30010,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,VSAMIO,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,TXCVMYTD,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,DISAMIO,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NPGETNXE,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NPGETEL,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,DPX1030,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NPBLDIR,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,DPX1012,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,NPCOMREC,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,DPX1011,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",NP30060X,BNPPDR,Life 70 - Underwriting
+Newyork,PCAVM020,Actuarial,"Hutto, Amy",NR20SPX,NR20SP,Actuarial
+Newyork,PCAVM020,Actuarial,"Hutto, Amy",NR20SPX,UTCB9010,Actuarial
+Newyork,PCAVM020,Actuarial,"Hutto, Amy",NR20SPX,UTCB9020,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,P51D,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,PE51,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,TXCVDMYC,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,VSAMIO,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,DISAMIO,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,IOCONTRL,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,PE51LOB,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,UTCB9010,Actuarial
+Newyork,PCAHR020,Actuarial,"Hutto, Amy",P51DX,UTCB9020,Actuarial
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,PAHXA907,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,VSAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,DISAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,TXCVMYTD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,PAHYA100,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,IOCONTRL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,UTCB9010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD265,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHXA97X,UTCB9020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,PBAB0054,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,VSAMIO,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,MDPREMH,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,MDPREMA,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DISAMIO,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,IOCONTRL,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,MDPREMD,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,MDPREMB,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,NPGETEL,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,NPGETNXE,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPX1012,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPX1030,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPX1010,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPX1011,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,BNPPDR,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,NPCOMREC,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,NPBLDIR,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPRNPMSA,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPSNPMSA,Life 70 - Underwriting
+Newyork,PCNPD090,Life 70 - Underwriting,"Hutto, Amy",PBAB054X,DPXISAM,Life 70 - Underwriting
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,PE50,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,PE51,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,TXCVDMYC,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,VSAMIO,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,DISAMIO,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,IOCONTRL,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,PE51LOB,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,UTCB9010,Actuarial
+Newyork,PCAEM040,Actuarial,"Hutto, Amy",PE50X,UTCB9020,Actuarial
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TRBCYCLE,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TRBCIOPG,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,VSAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DISAMIO,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,IOCONTRL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15M,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TLKUP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15GRM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPFCTRXX,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15AFL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15SIX,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC10SPRB,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15ACC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15QUAL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15SFB,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NP1549Z,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA1500,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,D15MSMOD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC15VII,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1030,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,BNPPDR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1012,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MORTREAD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPI1000,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPI3010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX0010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPRNPMSA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPSNPMSA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPXISAM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1011,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1040,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPRRV70A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPSRV70A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NP00020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC20,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC20A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DCAB0010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,UTAB0002,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,D20MSMOD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA0545,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1050,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPRNPTBA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NPGETID,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX1070,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPRAUDM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPSAUDM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX3020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MDPREMA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA1100,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MDPREMB,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MDPREMD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MDPREMC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,MDPREMH,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPAACCT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPXIP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPXIPAC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX0020,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX0030,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPX0040,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC30,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPACCT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPACCTDP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPASOF,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA3150,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPBLDUB,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPCALSUR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPCKBIT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPCKINF,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPDETH,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPDFAPL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNOFF,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPDLYCST,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPDPADTM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPEQTY,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPCURVL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPDPAD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPNSP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPNSPI,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPDAN,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPDDT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPDETI,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPDRI,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPTEMPV,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPETIC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPADJUN,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPCHGPM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPETILM,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPIOMOD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPREAR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLIBILL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNANL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNDT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNIMP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNIT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPLNPRC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA3115,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPMAEXP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPMODEQT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPOVLFL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPAYLN,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPRMLN,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPPUAPT,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPRPUC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPSURDEP,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPSURPH,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPSURRN,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPTRLR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA3110,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC50,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC50A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC50R,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,UTAB0050,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DPA5010,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC52,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC35,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC36,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NP20220,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC60M,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC60A,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC60P,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NP20820,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NP10030,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,DC60Z,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TXCVDMYC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TXCVMYTD,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,TRBCZAPR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NPBLDIR,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NPCOMREC,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NPGETEL,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,NPGETNXE,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,CPALPHA,Life 70 (core batch processing stay on mainframe)
+Newyork,PCPCD090,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TURBO,UPWRITE,Life 70 (core batch processing stay on mainframe)
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE10,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE100,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105MTR,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE10A,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105AFL,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE10ZIP,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,ICRU2000,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PR1,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PR2,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PR3,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PR4,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PR5,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105CON,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105MED,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE105PST,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,CMFINDT,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,MDPREMH,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,MDPREMD,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPX1010,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPX1030,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NPGETNXE,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NPGETEL,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,MDPREMB,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,IUTU0100,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,MDPREMA,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPXIP,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,MORTREAD,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,TXCVMYTD,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,TXCVDMYC,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VE115,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,CMCVDATE,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NP87B010,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,VSAMIO,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,IOCONTRL,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DISAMIO,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NP87B011,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPA1100,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NPBLDIR,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPX1012,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,NPCOMREC,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,BNPPDR,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPXISAM,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPX1011,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPSNPMSA,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,DPRNPMSA,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,UTCB9010,Actuarial
+Newyork,PCAEQ020,Actuarial,"Hutto, Amy",VE10XH,UTCB9020,Actuarial

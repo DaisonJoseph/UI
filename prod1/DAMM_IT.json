@@ -1,0 +1,58 @@
+{
+	"TestCases" : [{
+		"TestCase": "Unit Testing",
+		"testingcase": 9862.74,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 3,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 1,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 5852
+	}, {
+		"title": "Failed",
+		"value": 1899
+	},{
+		"title": "Blocked",
+		"value": 809
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 300
+	}, {
+		"title": "Medium defects",
+		"value": 123
+	}, {
+		"title": "High Defects",
+		"value": 98
+	}, {
+		"title": "Critical Defects",
+		"value": 72
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 1000
+	}, {
+		"Status": "Not Executed",
+		"Value": 900
+	}]
+}

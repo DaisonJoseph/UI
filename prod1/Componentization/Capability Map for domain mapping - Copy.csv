@@ -1,0 +1,21 @@
+Capability ID,Description-L1,Description-L2,Description-L3,Entry Point (JCL/ Txn/ Pgm),Entry Point Type
+1,Customer Relationships,,,,
+1.1,,Customer Management,,,
+1.1.1,,,Identify Customer,PCAEM020,JCL
+1.1.2,,,Manage Customer,PCAEM040,JCL
+1.1.3,,,Manage Customer Hierarchy,PCARM015,JCL
+1.1.4,,,Manage Community,PCAVM020,JCL
+1.1.5,,,Manage Org Center,VEEB0015,COBOL
+1.2,,Contract Management,,,
+1.2.1,,,Outbound Contract,PCNPD830,JCL
+1.2.2,,,Inbound Contract,PCNVD860,JCL
+1.2.3,,,Classifify/ Download,PCNVD861,JCL
+1.2.4,,,Route Contract,PCNVM030,JCL
+1.2.5,,,Contract Termination,PCPCD009,JCL
+2,Procurement and Logistics,,,,
+2.1,,Purchasing,,,
+2.1.1,,,Manage PO,PCPCD215,JCL
+2.1.2,,,Customize PO,PCPCD380,JCL
+2.2,,Servicing,,,
+2.2.1,,,Define sourcing strategy,PCPCD780,JCL
+2.2.2,,,Decide Outsourcing,PCPCD900,JCL

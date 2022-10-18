@@ -1,0 +1,453 @@
+        .but {
+            background-color: #004A7F;
+            -webkit-border-radius: 10px;
+            border-radius: 10px!important;
+            border: none;
+            color: #FFFFFF;
+            cursor: pointer;
+            display: inline-block;
+            font-family: Arial;
+            font-size: 9px;
+            padding: 2px 5px;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        @-webkit-keyframes glowing {
+            0% {
+                background-color: #98F5FF;
+                -webkit-box-shadow: 0 0 3px #98F5FF;
+            }
+            50% {
+                background-color: #fff;
+                -webkit-box-shadow: 0 0 40px #fff;
+            }
+            100% {
+                background-color: #98F5FF;
+                -webkit-box-shadow: 0 0 3px #98F5FF;
+            }
+        }
+
+        @-moz-keyframes glowing {
+            0% {
+                background-color: #000;
+                -moz-box-shadow: 0 0 3px #000;
+            }
+            50% {
+                background-color: #fff;
+                -moz-box-shadow: 0 0 40px #fff;
+            }
+            100% {
+                background-color: #000;
+                -moz-box-shadow: 0 0 3px #000;
+            }
+        }
+
+        @-o-keyframes glowing {
+            0% {
+                background-color: #000;
+                box-shadow: 0 0 3px #000;
+            }
+            50% {
+                background-color: #fff;
+                box-shadow: 0 0 40px #fff;
+            }
+            100% {
+                background-color: #000;
+                box-shadow: 0 0 3px #000;
+            }
+        }
+
+        @keyframes glowing {
+            0% {
+                background-color: #98F5FF;
+                box-shadow: 0 0 3px #98F5FF;
+            }
+            50% {
+                background-color: #fff;
+                box-shadow: 0 0 40px #fff;
+            }
+            100% {
+                background-color: #98F5FF;
+                box-shadow: 0 0 3px #98F5FF;
+            }
+        }
+
+        .but {
+            -webkit-animation: glowing 1500ms infinite;
+            -moz-animation: glowing 1500ms infinite;
+            -o-animation: glowing 1500ms infinite;
+            animation: glowing 1500ms infinite;
+        }
+
+        .tooltip {
+            position: relative;
+            border-bottom: 2px dotted blue;
+        }
+
+        .tooltip .inside {
+            visibility: hidden;
+            width: auto;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            /* Position the tooltip */
+            position: absolute;
+            z-index: 1;
+            top: 100%;
+            left: 50%;
+            margin-left: -60px;
+        }
+
+        .tooltip:hover .inside {
+            visibility: visible;
+        }
+
+        .highlight {
+            border: 2px solid #32C5D2;
+        }
+
+        .fa-times {
+            position: fixed;
+            padding: 5px;
+            margin: 5px;
+            top: 5;
+            right: 0;
+            z-index: 100;
+            color: #888;
+        }
+
+        .fa-times:hover {
+            background-color: #CC4748;
+            color: white;
+        }
+
+        .labels {
+            position: fixed;
+        }
+
+        .fa-arrow-left {
+            position: fixed;
+            padding: 5px;
+            margin: 5px;
+            top: 5;
+            right: 0;
+            z-index: 100;
+            color: #888;
+        }
+
+        .fa-arrow-left:hover {
+            background-color: #CC4748;
+            color: white;
+        }
+
+        body {
+            overflow-x: hidden;
+        }
+
+        #port1,
+        #port2,
+        #port5,
+        #port6 {
+            width: 100%;
+        }
+
+        .amcharts-pie-slice {
+            transform: scale(1);
+            transform-origin: 50% 50%;
+            transition-duration: 0.3s;
+            transition: all .3s ease-out;
+            -webkit-transition: all .3s ease-out;
+            -moz-transition: all .3s ease-out;
+            -o-transition: all .3s ease-out;
+            cursor: pointer;
+            box-shadow: 0 0 30px 0 #000;
+        }
+
+        .amcharts-pie-slice:hover {
+            transform: scale(1.1);
+            filter: url(#shadow);
+        }
+
+        .scroll {
+            overflow: auto;
+            float: right;
+            margin: 0 20px;
+        }
+
+        .scroll2::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        .scroll2::-webkit-scrollbar-thumb {
+            background: #666;
+        }
+
+        #wrapper {
+            text-align: center;
+            width: 500px;
+            margin: auto;
+        }
+
+        #overlay {
+            position: fixed;
+            display: none;
+            width: 100%;
+            height: 100%;
+            top: 50px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #fff;
+            z-index: 4;
+            cursor: pointer;
+            -webkit-animation-delay: 0ms;
+            animation-delay: 0ms;
+        }
+
+        #depduration {
+            width: 518px;
+            height: 290px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #leadtime {
+            width: 518px;
+            height: 290px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #vendorpie2 {
+            width: 340px;
+            height: 290px;
+            padding-top: 0px;
+            padding-bottom: 40px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #bubblecomp {
+            width: 863px;
+            height: 290px;
+            display: inline-block;
+            padding-left: 0px;
+            padding-right: 0px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #vendorpie {
+            width: 285px;
+            height: 290px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #failure1 {
+            width: 507px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #failure2 {
+            width: 25%;
+            height: 45%;
+            padding-top: 0px;
+            padding-bottom: 40px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+            display: inline-block;
+        }
+
+        #failure3 {
+            width: 25%;
+            height: 45%;
+            padding-top: 0px;
+            padding-bottom: 40px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #negativechart {
+            width: 49%;
+            height: 45%;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #failure4 {
+            width: 507px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #envpie {
+            width: 285px;
+            height: 290px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #techpie {
+            width: 285px;
+            height: 290px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #envcomp {
+            width: 495px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #chartpoo1 {
+            position: relative;
+            float: left;
+            padding-left: -20px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+            width: 497px;
+            height: 290px;
+        }
+
+        #vendorpie3 {
+            width: 340px;
+            height: 290px;
+            padding-top: 0px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+            padding-bottom: 40px;
+        }
+
+        #chartdive {
+            width: 495px;
+            height: 290px;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #deployspeed {
+            width: 680px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #appspeed {
+            width: 680px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #deploybar {
+            width: 507px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        #deploybar2 {
+            width: 507px;
+            height: 290px;
+            display: inline-block;
+            box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        .animateChart_1 {
+            -webkit-animation-name: cssAnimation;
+            -webkit-animation-duration: 2s;
+            -webkit-animation-delay: 0ms;
+            -webkit-animation-iteration-count: 1;
+            -webkit-animation-timing-function: ease;
+            -webkit-animation-fill-mode: forwards;
+        }
+
+        @-webkit-keyframes cssAnimation {
+            0% {
+                -webkit-transform: scale(2);
+            }
+            50% {
+                -webkit-transform: scale(0.9);
+            }
+            100% {
+                -webkit-transform: scale(1);
+            }
+        }
+
+        #div1 {
+            position: absolute;
+            top: -30px;
+            left: -30px;
+            width: 260px;
+            height: 260px;
+        }
+
+        #chartdiv1 {
+            width: 100%;
+            font-size: 11px;
+        }
+
+        #chart-container {
+            width: 100%;
+            font-size: 11px;
+        }
+
+        #chartdiv {
+            width: 100%;
+            height: 500px;
+        }
+
+        .mapdiv {
+            width: 100%;
+            height: 500px;
+            float: left;
+        }
+
+        .gauri {
+            display: table;
+            width: 100%;
+            /*Optional*/
+            table-layout: fixed;
+            /*Optional*/
+            border-spacing: 10px;
+            /*Optional*/
+        }
+
+        .gauri1 {
+            display: table-cell;
+            height: 230px;
+            width: 100%;
+        }
+
+        .dectext {
+            text-decoration: none !important;
+        }
+
+        .boxx {
+            display: none;
+            opacity: 0;
+            transform: rotatex(-90deg);
+            transform-origin: top;
+            transition: transform 800ms ease-in-out, opacity 500ms ease-in-out;
+        }
+
+        .boxxanim {
+            opacity: 1;
+            transform: none;
+        }
+#bgcolor{
+    background-color:#DCDCDC;
+}
+#breadcrum{
+    background-color:#778899;
+    height:21px;
+}

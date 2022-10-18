@@ -1,0 +1,135 @@
+.sidebar .logo {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sidebar {
+    overflow: hidden;
+}
+
+.sidebar.collapsed {
+    width: 71px;
+}
+
+
+.sidebar .logo a {
+    display: inline!important;
+    margin-right: 10px;
+}
+
+.sidebar #nav-button {
+    padding: 0;
+    background: transparent;
+    color: white;
+    border: none;
+    transform: scale(1.2);
+    cursor: pointer;
+    outline: none;
+   
+}
+
+.page-link {
+    background-color: purple; 
+}
+a .page-link {
+    background-color: purple !important;
+    border: none;
+    outline: none;
+    /* box-shadow: -1px 5px purple; */
+
+}
+
+.nav-link {
+    display: flex!important;
+    align-items: center;
+}
+
+.card {
+    cursor: pointer!important;
+}
+.card-header{
+    min-height: 80px;
+}
+.card-footer {
+    display: flex!important;
+    flex-direction: column;
+    align-items: flex-start!important;
+}
+
+h3.card-title small {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-panel.expand-panel{
+    width:  calc(100% - 80px)!important;
+}.sidebar .logo {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sidebar {
+    overflow: hidden;
+}
+
+.sidebar.collapsed {
+    width: 71px;
+}
+
+
+.sidebar .logo a {
+    display: inline!important;
+    margin-right: 10px;
+}
+
+.sidebar #nav-button {
+    padding: 0;
+    background: transparent;
+    color: white;
+    border: none;
+    transform: scale(1.2);
+    cursor: pointer;
+    outline: none;
+   
+}
+
+.page-link {
+    background-color: purple; 
+}
+a .page-link {
+    background-color: purple !important;
+    border: none;
+    outline: none;
+    /* box-shadow: -1px 5px purple; */
+
+}
+
+.nav-link {
+    display: flex!important;
+    align-items: center;
+}
+
+.card {
+    cursor: pointer!important;
+}
+.card-header{
+    min-height: 80px;
+}
+.card-footer {
+    display: flex!important;
+    flex-direction: column;
+    align-items: flex-start!important;
+}
+
+h3.card-title small {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-panel.expand-panel{
+    width:  calc(100% - 80px)!important;
+}

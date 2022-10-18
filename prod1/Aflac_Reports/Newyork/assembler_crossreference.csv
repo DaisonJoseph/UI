@@ -1,0 +1,39 @@
+Calling Component,Calling Type,,App Name,App Owner,Called Component,Called Type
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TXCOPY,COPYBOOK
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PMLNGTH,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AFLPASS,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+DC42AFL,ASSEMBLER,DC42AFLASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PMTRLR,COPYBOOK
+DC70CA01,ASSEMBLER,DC70CA01ASSEMBLER,Life 70 - General Accounting,"Hutto, Amy",TXCOPY,COPYBOOK
+DTXACT01,ASSEMBLER,DTXACT01ASSEMBLER,Actuarial,"Hutto, Amy",TXCOPY,COPYBOOK
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",TXCOPY,COPYBOOK
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",C@SELECT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",C@GRPSEG,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",I@SEGMNT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",C@SELECT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",C@SELECT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",C@GRPSEG,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",INPUT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",QTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",CTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",ZTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",INPUT,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",UTRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AHPTRAIL,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AHATRAIL,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AHPTRAIL,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",ATRAILER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PAHYA100,COBOL
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AHATRAIL,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PMASTER,FILE
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",FOBDATA,COPYBOOK
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DCPLUGS,COPYBOOK
+PAHXA905,ASSEMBLER,PAHXA905ASSEMBLER,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PMTRLR,COPYBOOK

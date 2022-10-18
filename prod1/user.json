@@ -1,0 +1,21 @@
+{ "_id" : { "$oid" : "59e8b3b811a1c3e5ddccbca5" }, "Name" : "Poonam", "Uid" : "psaroj", "Password" : "1234" }
+{ "_id" : { "$oid" : "59e8b40f11a1c3e5ddccbca6" }, "Name" : "Ram", "Uid" : "ram", "Password" : "1234" }
+{ "_id" : { "$oid" : "59e8e2765280f3f8da095385" }, "Name" : "Dhinakar", "Uid" : "dhinakar", "Password" : "Pass1234" }
+{ "_id" : { "$oid" : "5a302cb1601f468162aaecca" }, "firstname" : "abc", "lastname" : "abc", "Uid" : "psaroj123", "Password" : "abc", "role" : "Admin", "portfolio" : [ "Cards" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a303146601f466005aae469" }, "firstname" : "poonam", "lastname" : "saroj", "Uid" : "psaroj11", "Password" : "abc", "role" : "Admin", "portfolio" : [ "Cards" ], "application" : [ "RoboFTP Scripts" ] }
+{ "_id" : { "$oid" : "5a30dcaa601f461458aaecca" }, "firstname" : "", "lastname" : "", "Uid" : "  ", "Password" : "dais", "role" : "Admin", "portfolio" : null, "application" : null }
+{ "_id" : { "$oid" : "5a30dcf9601f46d205aae469" }, "firstname" : "", "lastname" : "", "Uid" : "            aa2", "Password" : "a", "role" : "Admin", "portfolio" : [ "Cards", "Retail Banking" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a30de4f601f466005aae46a" }, "firstname" : "", "lastname" : "", "Uid" : "rtyrrt", "Password" : "b", "role" : "Tester", "portfolio" : [ "Cards", "Retail Banking" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a30dea7601f469b6eaae46a" }, "firstname" : "", "lastname" : "", "Uid" : "gd", "Password" : "qwer", "role" : "Developer", "portfolio" : [ "Investment" ], "application" : [ "RoboFTP Scripts" ] }
+{ "_id" : { "$oid" : "5a30deb8601f461458aaeccb" }, "firstname" : "fhghf", "lastname" : "fgfdg", "Uid" : "fgdxgfdg", "Password" : "ii", "role" : "Operation", "portfolio" : [ "Cebil Scores" ], "application" : [ "PLIS" ] }
+{ "_id" : { "$oid" : "5a3377c7601f469c6eaae46a" }, "firstname" : "daison", "lastname" : "david", "Uid" : "daisdavi", "Password" : "123", "role" : "Tester", "portfolio" : [ "Cards" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a337856601f46cd05aae46a" }, "firstname" : "da", "lastname" : "da", "Uid" : "da", "Password" : "12", "role" : "Tester", "portfolio" : [ "Cards" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a337883601f468162aaeccc" }, "firstname" : "da", "lastname" : "david", "Uid" : "dada", "Password" : "da", "role" : "Tester", "portfolio" : [ "Retail Banking" ], "application" : [ "Right Price Web (RPW)" ] }
+{ "_id" : { "$oid" : "5a33789d601f466205aae46a" }, "firstname" : "", "lastname" : "", "Uid" : " ", "Password" : "12", "role" : "Developer", "portfolio" : [ "Cards" ], "application" : null }
+{ "_id" : { "$oid" : "5a3378d8601f466906aae469" }, "firstname" : "daison", "lastname" : "da", "Uid" : "daa", "Password" : "ad", "role" : "Operation", "portfolio" : [ "Cards" ], "application" : null }
+{ "_id" : { "$oid" : "5a3378e5601f466305aae46a" }, "firstname" : "a", "lastname" : "a", "Uid" : "a", "Password" : "a", "role" : "Operation", "portfolio" : null, "application" : null }
+{ "_id" : { "$oid" : "5a3761cc601f466755fd55a8" }, "firstname" : "gauri", "lastname" : "mandlik", "Uid" : "gmandlik", "Password" : "gmandlik", "role" : "Operation", "portfolio" : [ "Loan" ], "application" : [ "PLIS" ] }
+{ "_id" : { "$oid" : "5a376334601f46b869fd55a8" }, "firstname" : "sagar", "lastname" : "ambani", "Uid" : "sagaram", "Password" : "sagaram", "role" : "Developer", "portfolio" : [ "Loan" ], "application" : [ "PLIS" ] }
+{ "_id" : { "$oid" : "5a3763e7601f46c651fd55a8" }, "firstname" : "ga", "lastname" : "ga", "Uid" : "ga", "Password" : "ga", "role" : "Operation", "portfolio" : [ "Retail Banking" ], "application" : [ "PLIS" ] }
+{ "_id" : { "$oid" : "5a376cc7601f466855fd55a8" }, "firstname" : "manisha", "lastname" : "pawar", "Uid" : "mpawar", "Password" : "mpawar", "role" : "Operation", "portfolio" : [ "Loan" ], "application" : [ "PLIS" ] }
+{ "_id" : { "$oid" : "5b6301cb70872305f02c22fa" }, "Name" : "Legacy Revitalization", "Uid" : "groupdemo", "Password" : "grouppass" }

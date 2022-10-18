@@ -1,0 +1,264 @@
+Sub color()
+Dim n, i, j, s
+
+For i = 1 To 738778
+    For j = 2 To 57 step 2
+    s = j - 1
+		Select case (cells(i,j).value)
+		case "System"
+            Cells(i, s).Interior.color = RGB(0, 51, 102)
+            Cells(i, j).Interior.color = RGB(0, 51, 102)
+		case "Arbetsställe"
+            Cells(i, s).Interior.color = RGB(51, 102, 153)
+            Cells(i, j).Interior.color = RGB(51, 102, 153)
+		case "Kreditbevakning"
+            Cells(i, s).Interior.color = RGB(0, 51, 153)
+            Cells(i, j).Interior.color = RGB(0, 51, 153)
+		case "Bankgirouppgifter"
+            Cells(i, s).Interior.color = RGB(0, 0, 102)
+            Cells(i, j).Interior.color = RGB(0, 0, 102)
+		case "nummersökning"
+            Cells(i, s).Interior.color = RGB(0, 102, 102)
+            Cells(i, j).Interior.color = RGB(0, 102, 102)
+		case "Betalklass"
+            Cells(i, s).Interior.color = RGB(0, 153, 204)
+            Cells(i, j).Interior.color = RGB(0, 153, 204)
+		case "Bibo – batch in/out"
+            Cells(i, s).Interior.color = RGB(0, 102, 204)
+            Cells(i, j).Interior.color = RGB(0, 102, 204)
+		case "Registervård"
+            Cells(i, s).Interior.color = RGB(51, 51, 255)
+            Cells(i, j).Interior.color = RGB(51, 51, 255)
+		case "Selekteringar"
+            Cells(i, s).Interior.color = RGB(51, 51, 153)
+            Cells(i, j).Interior.color = RGB(51, 51, 153)
+		case "Bitstring"
+            Cells(i, s).Interior.color = RGB(102, 153, 153)
+            Cells(i, j).Interior.color = RGB(102, 153, 153)
+		case "Kreditfakta"
+            Cells(i, s).Interior.color = RGB(0, 153, 153)
+            Cells(i, j).Interior.color = RGB(0, 153, 153)
+		case "Year 2000"
+            Cells(i, s).Interior.color = RGB(0, 204, 255)
+            Cells(i, j).Interior.color = RGB(0, 204, 255)
+		case "Checksum"
+            Cells(i, s).Interior.color = RGB(0, 102, 255)
+            Cells(i, j).Interior.color = RGB(0, 102, 255)
+		case "Indata – Clistor"
+            Cells(i, s).Interior.color = RGB(51, 51, 204)
+            Cells(i, j).Interior.color = RGB(51, 51, 204)
+		case "Container miljö"
+            Cells(i, s).Interior.color = RGB(102, 0, 204)
+            Cells(i, j).Interior.color = RGB(102, 0, 204)
+		case "CICSWEB"
+            Cells(i, s).Interior.color = RGB(102, 102, 255)
+            Cells(i, j).Interior.color = RGB(102, 102, 255)
+		case "Fakturering"
+            Cells(i, s).Interior.color = RGB(0, 255, 255)
+            Cells(i, j).Interior.color = RGB(0, 255, 255)
+		case "Data Warehouse"
+            Cells(i, s).Interior.color = RGB(0, 255, 204)
+            Cells(i, j).Interior.color = RGB(0, 255, 204)
+		case "Direkt rapport"
+            Cells(i, s).Interior.color = RGB(51, 153, 102)
+            Cells(i, j).Interior.color = RGB(51, 153, 102)
+		case "Enskilda näringsidkare"
+            Cells(i, s).Interior.color = RGB(0, 102, 0)
+            Cells(i, j).Interior.color = RGB(0, 102, 0)
+		case "Engagemangsregister"
+            Cells(i, s).Interior.color = RGB(0, 255, 0)
+            Cells(i, j).Interior.color = RGB(0, 255, 0)
+		case "EU Bokslut"
+            Cells(i, s).Interior.color = RGB(153, 255, 204)
+            Cells(i, j).Interior.color = RGB(153, 255, 204)
+		case "Fråge/svars-systemet"
+            Cells(i, s).Interior.color = RGB(204, 204, 255)
+            Cells(i, j).Interior.color = RGB(204, 204, 255)
+		case "Bibo – batch in/out cics"
+            Cells(i, s).Interior.color = RGB(204, 102, 255)
+            Cells(i, j).Interior.color = RGB(204, 102, 255)
+		case "F/S Externa leveranser"
+            Cells(i, s).Interior.color = RGB(153, 0, 204)
+            Cells(i, j).Interior.color = RGB(153, 0, 204)
+		case "F/S  Id-nummersökning"
+            Cells(i, s).Interior.color = RGB(102, 0, 102)
+            Cells(i, j).Interior.color = RGB(102, 0, 102)
+		case "F/S  Gränssnitt - Layout"
+            Cells(i, s).Interior.color = RGB(255, 0, 255)
+            Cells(i, j).Interior.color = RGB(255, 0, 255)
+		case "F/S utredningsbilder, mall  mm"
+            Cells(i, s).Interior.color = RGB(255, 102, 255)
+            Cells(i, j).Interior.color = RGB(255, 102, 255)
+		case "F/S  huvudmeny mm"
+            Cells(i, s).Interior.color = RGB(255, 204, 255)
+            Cells(i, j).Interior.color = RGB(255, 204, 255)
+		case "Parameterregistret"
+            Cells(i, s).Interior.color = RGB(204, 255, 204)
+            Cells(i, j).Interior.color = RGB(204, 255, 204)
+		case "F-skatt"
+            Cells(i, s).Interior.color = RGB(51, 204, 51)
+            Cells(i, j).Interior.color = RGB(51, 204, 51)
+		case "FTP"
+            Cells(i, s).Interior.color = RGB(25, 204, 95)
+            Cells(i, j).Interior.color = RGB(25, 204, 95)
+		case "Generella program"
+            Cells(i, s).Interior.color = RGB(0, 51, 0)
+            Cells(i, j).Interior.color = RGB(0, 51, 0)
+		case "Hållkoll"
+            Cells(i, s).Interior.color = RGB(51, 102, 0)
+            Cells(i, j).Interior.color = RGB(51, 102, 0)
+		case "Delägare och HKB"
+            Cells(i, s).Interior.color = RGB(153, 255, 102)
+            Cells(i, j).Interior.color = RGB(153, 255, 102)
+		case "Internat. system föret.uppl."
+            Cells(i, s).Interior.color = RGB(255, 255, 204)
+            Cells(i, j).Interior.color = RGB(255, 255, 204)
+		case "Beda databas"
+            Cells(i, s).Interior.color = RGB(255, 153, 204)
+            Cells(i, j).Interior.color = RGB(255, 153, 204)
+		case "Interna funktioner"
+            Cells(i, s).Interior.color = RGB(255, 102, 204)
+            Cells(i, j).Interior.color = RGB(255, 102, 204)
+		case "Ärendehant. kreditbedömn."
+            Cells(i, s).Interior.color = RGB(255, 51, 204)
+            Cells(i, j).Interior.color = RGB(255, 51, 204)
+		case "Diverse"
+            Cells(i, s).Interior.color = RGB(153, 0, 153)
+            Cells(i, j).Interior.color = RGB(153, 0, 153)
+		case "Koncernregistret"
+            Cells(i, s).Interior.color = RGB(255, 51, 153)
+            Cells(i, j).Interior.color = RGB(255, 51, 153)
+		case "Ansök"
+            Cells(i, s).Interior.color = RGB(255, 102, 153)
+            Cells(i, j).Interior.color = RGB(255, 102, 153)
+		case "Riskbedömning"
+            Cells(i, s).Interior.color = RGB(255, 153, 153)
+            Cells(i, j).Interior.color = RGB(255, 153, 153)
+		case "Ärendehant. kreditbedömn"
+            Cells(i, s).Interior.color = RGB(255, 204, 153)
+            Cells(i, j).Interior.color = RGB(255, 204, 153)
+		case "F/S  Layout"
+            Cells(i, s).Interior.color = RGB(204, 255, 102)
+            Cells(i, j).Interior.color = RGB(204, 255, 102)
+		case "Lasses Fixprogram"
+            Cells(i, s).Interior.color = RGB(102, 153, 0)
+            Cells(i, j).Interior.color = RGB(102, 153, 0)
+		case "Kreditlimit"
+            Cells(i, s).Interior.color = RGB(51, 51, 0)
+            Cells(i, j).Interior.color = RGB(51, 51, 0)
+		case "F/S Layout"
+            Cells(i, s).Interior.color = RGB(102, 102, 51)
+            Cells(i, j).Interior.color = RGB(102, 102, 51)
+		case "Mallsystemet"
+            Cells(i, s).Interior.color = RGB(153, 204, 0)
+            Cells(i, j).Interior.color = RGB(153, 204, 0)
+		case "Leverantörsregister"
+            Cells(i, s).Interior.color = RGB(204, 255, 51)
+            Cells(i, j).Interior.color = RGB(204, 255, 51)
+		case "Massmedia statistik"
+            Cells(i, s).Interior.color = RGB(255, 153, 102)
+            Cells(i, j).Interior.color = RGB(255, 153, 102)
+		case "Nummerpåföring"
+            Cells(i, s).Interior.color = RGB(255, 102, 102)
+            Cells(i, j).Interior.color = RGB(255, 102, 102)
+		case "Registervård     (submodul)"
+            Cells(i, s).Interior.color = RGB(255, 0, 102)
+            Cells(i, j).Interior.color = RGB(255, 0, 102)
+		case "UC  Select"
+            Cells(i, s).Interior.color = RGB(204, 102, 153)
+            Cells(i, j).Interior.color = RGB(204, 102, 153)
+		case "Uttag omfrågade"
+            Cells(i, s).Interior.color = RGB(153, 51, 102)
+            Cells(i, j).Interior.color = RGB(153, 51, 102)
+		case "Ekonomipublikationer"
+            Cells(i, s).Interior.color = RGB(204, 0, 102)
+            Cells(i, j).Interior.color = RGB(204, 0, 102)
+		case "Gen. indatasystem  (parm-styrt)"
+            Cells(i, s).Interior.color = RGB(255, 80, 80)
+            Cells(i, j).Interior.color = RGB(255, 80, 80)
+		case "Bokslut"
+            Cells(i, s).Interior.color = RGB(255, 102, 0)
+            Cells(i, j).Interior.color = RGB(255, 102, 0)
+		case "Fixprogram Roland"
+            Cells(i, s).Interior.color = RGB(255, 204, 0)
+            Cells(i, j).Interior.color = RGB(255, 204, 0)
+		case "Faktarapporter - jur. utland"
+            Cells(i, s).Interior.color = RGB(204, 204, 0)
+            Cells(i, j).Interior.color = RGB(204, 204, 0)
+		case "Kundreskontra"
+            Cells(i, s).Interior.color = RGB(153, 153, 102)
+            Cells(i, j).Interior.color = RGB(153, 153, 102)
+		case "Statistik"
+            Cells(i, s).Interior.color = RGB(153, 102, 51)
+            Cells(i, j).Interior.color = RGB(153, 102, 51)
+		case "Säkerhetssystem"
+            Cells(i, s).Interior.color = RGB(204, 153, 0)
+            Cells(i, j).Interior.color = RGB(204, 153, 0)
+		case "Convert SNI code 1992"
+            Cells(i, s).Interior.color = RGB(255, 153, 0)
+            Cells(i, j).Interior.color = RGB(255, 153, 0)
+		case "Styrelse"
+            Cells(i, s).Interior.color = RGB(204, 102, 0)
+            Cells(i, j).Interior.color = RGB(204, 102, 0)
+		case "Skuldsaldosystemet"
+            Cells(i, s).Interior.color = RGB(255, 51, 0)
+            Cells(i, j).Interior.color = RGB(255, 51, 0)
+		case "SNI-koder / LKF-koder"
+            Cells(i, s).Interior.color = RGB(204, 0, 0)
+            Cells(i, j).Interior.color = RGB(204, 0, 0)
+		case "Textregistret"
+            Cells(i, s).Interior.color = RGB(153, 0, 51)
+            Cells(i, j).Interior.color = RGB(153, 0, 51)
+		case "Systemtekn. interna progr."
+            Cells(i, s).Interior.color = RGB(153, 51, 51)
+            Cells(i, j).Interior.color = RGB(153, 51, 51)
+		case "Äktenskapsregister"
+            Cells(i, s).Interior.color = RGB(128, 0, 0)
+            Cells(i, j).Interior.color = RGB(128, 0, 0)
+		case "Betalningsanmärkningar"
+            Cells(i, s).Interior.color = RGB(153, 0, 0)
+            Cells(i, j).Interior.color = RGB(153, 0, 0)
+		case "Fix-program"
+            Cells(i, s).Interior.color = RGB(153, 51, 0)
+            Cells(i, j).Interior.color = RGB(153, 51, 0)
+		case "Ärendehantering AB"
+            Cells(i, s).Interior.color = RGB(204, 51, 0)
+            Cells(i, j).Interior.color = RGB(204, 51, 0)
+		case "Personuppgifter uppdat."
+            Cells(i, s).Interior.color = RGB(153, 102, 0)
+            Cells(i, j).Interior.color = RGB(153, 102, 0)
+		case "Selekteringar mm"
+            Cells(i, s).Interior.color = RGB(102, 51, 0)
+            Cells(i, j).Interior.color = RGB(102, 51, 0)
+		case "Företagsinfo. uppdat."
+            Cells(i, s).Interior.color = RGB(100, 230, 173)
+            Cells(i, j).Interior.color = RGB(100, 230, 173)
+		case "Mantalsförhållande"
+            Cells(i, s).Interior.color = RGB(216, 200, 173)
+            Cells(i, j).Interior.color = RGB(216, 200, 173)
+		case "Taxeringar"
+            Cells(i, s).Interior.color = RGB(216, 230, 255)
+            Cells(i, j).Interior.color = RGB(216, 230, 255)
+		case "Fastigheter"
+            Cells(i, s).Interior.color = RGB(216, 100, 173)
+            Cells(i, j).Interior.color = RGB(216, 100, 173)
+		case "Besläktade företag"
+            Cells(i, s).Interior.color = RGB(216, 230, 100)
+            Cells(i, j).Interior.color = RGB(216, 230, 100)
+		case "Webservice"
+            Cells(i, s).Interior.color = RGB(200, 230, 173)
+            Cells(i, j).Interior.color = RGB(200, 230, 173)
+		case "Abonnentregister"
+            Cells(i, s).Interior.color = RGB(216, 230, 200)
+            Cells(i, j).Interior.color = RGB(216, 230, 200)
+		case "Ärendehant"
+            Cells(i, s).Interior.color = RGB(255, 230, 173)
+            Cells(i, j).Interior.color = RGB(255, 230, 173)
+		case "TBD"
+            Cells(i, s).Interior.color = RGB(216, 255, 173)
+            Cells(i, j).Interior.color = RGB(216, 255, 173)
+	end select		
+        
+    Next
+Next
+End Sub

@@ -1,0 +1,27 @@
+/* .dashboard-stat.green {
+    background-color: green;
+} */
+.dashboard-stat.orange {
+    background-color: orange;
+}
+.dashboard-stat.teal {
+    background-color: teal;
+}
+.dashboard-stat.salmon {
+    background-color: lightsalmon;
+}
+.dashboard-stat.skyblue {
+    background-color: skyblue;
+} 
+.show {
+    display: block;
+}
+.hide{
+    display: none;  
+} 
+
+.tile-components{
+	background-image: url('../assets/img/back.jpg');
+	background-size: cover;
+}
+

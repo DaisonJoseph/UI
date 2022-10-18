@@ -1,0 +1,540 @@
+{
+	"TestCases" : [{
+		"TestCase": "Unit Testing",
+		"testingcase": 9862.74,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 3,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 1,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 5852
+	}, {
+		"title": "Failed",
+		"value": 1899
+	},{
+		"title": "Blocked",
+		"value": 809
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 300
+	}, {
+		"title": "Medium defects",
+		"value": 123
+	}, {
+		"title": "High Defects",
+		"value": 98
+	}, {
+		"title": "Critical Defects",
+		"value": 72
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 1000
+	}, {
+		"Status": "Not Executed",
+		"Value": 900
+	}]
+},{
+  "TestCases": [
+    {
+      "TestCase": "Technical Integration Testing",
+      "testingcase": 8700.57,
+      "color": "#FF0F00"
+    }
+  ],
+  "Defects": [
+    {
+      "DefectName": "Defect1",
+      "Count": 1,
+      "color": "#FF0F00"
+    },
+    {
+      "DefectName": "Defect2",
+      "Count": 1,
+      "color": "#FF6600"
+    },
+    {
+      "DefectName": "Defect3",
+      "Count": 0,
+      "color": "#FF9E01"
+    },
+    {
+      "DefectName": "Defect4",
+      "Count": 1,
+      "color": "#FCD202"
+    },
+    {
+      "DefectName": "Defect5",
+      "Count": 0,
+      "color": "#F8FF01"
+    }
+  ],
+  "passedCases": [
+    {
+      "title": "Passed",
+      "value": 5802
+    },
+    {
+      "title": "Failed",
+      "value": 1409
+    },
+    {
+      "title": "Blocked",
+      "value": 390
+    }
+  ],
+  "Priorities": [
+    {
+      "title": "Low defects",
+      "value": 350
+    },
+    {
+      "title": "Medium defects",
+      "value": 115
+    },
+    {
+      "title": "High Defects",
+      "value": 90
+    },
+    {
+      "title": "Critical Defects",
+      "value": 65
+    }
+  ],
+  "Completion": [
+    {
+      "Status": "Executed",
+      "Value": 1200
+    },
+    {
+      "Status": "Not Executed",
+      "Value": 1400
+    }
+  ]
+},{
+	"TestCases" : [{
+		"TestCase": "Performance Testing",
+		"testingcase": 7670.23,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 2,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 1,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 1,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 1,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 1,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 4500
+	}, {
+		"title": "Failed",
+		"value": 1500
+	},{
+		"title": "Blocked",
+		"value": 500
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 400
+	}, {
+		"title": "Medium defects",
+		"value": 150
+	}, {
+		"title": "High Defects",
+		"value": 70
+	}, {
+		"title": "Critical Defects",
+		"value": 35
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 1300
+	}, {
+		"Status": "Not Executed",
+		"Value": 750
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "Load Testing",
+		"testingcase": 6585.58,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 3000
+	}, {
+		"title": "Failed",
+		"value": 1001
+	},{
+		"title": "Blocked",
+		"value": 390
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 270
+	}, {
+		"title": "Medium defects",
+		"value": 120
+	}, {
+		"title": "High Defects",
+		"value": 100
+	}, {
+		"title": "Critical Defects",
+		"value": 55
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 1500
+	}, {
+		"Status": "Not Executed",
+		"Value": 1000
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "SIT",
+		"testingcase": 5474.02,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 5052
+	}, {
+		"title": "Failed",
+		"value": 1580
+	},{
+		"title": "Blocked",
+		"value": 509
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 330
+	}, {
+		"title": "Medium defects",
+		"value": 140
+	}, {
+		"title": "High Defects",
+		"value": 95
+	}, {
+		"title": "Critical Defects",
+		"value": 67
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 1200
+	}, {
+		"Status": "Not Executed",
+		"Value": 980
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "E2E",
+		"testingcase": 4391.92,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 6590
+	}, {
+		"title": "Failed",
+		"value": 3500
+	},{
+		"title": "Blocked",
+		"value": 1700
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 289
+	}, {
+		"title": "Medium defects",
+		"value": 178
+	}, {
+		"title": "High Defects",
+		"value": 110
+	}, {
+		"title": "Critical Defects",
+		"value": 70
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 880
+	}, {
+		"Status": "Not Executed",
+		"Value": 820
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "Parallel",
+		"testingcase": 3297.62,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 6390
+	}, {
+		"title": "Failed",
+		"value": 2000
+	},{
+		"title": "Blocked",
+		"value": 1090
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 400
+	}, {
+		"title": "Medium defects",
+		"value": 150
+	}, {
+		"title": "High Defects",
+		"value": 110
+	}, {
+		"title": "Critical Defects",
+		"value": 75
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 550
+	}, {
+		"Status": "Not Executed",
+		"Value": 580
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "NRT",
+		"testingcase": 2037.62,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 5842
+	}, {
+		"title": "Failed",
+		"value": 1500
+	},{
+		"title": "Blocked",
+		"value": 598
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 340
+	}, {
+		"title": "Medium defects",
+		"value": 132
+	}, {
+		"title": "High Defects",
+		"value": 79
+	}, {
+		"title": "Critical Defects",
+		"value": 58
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 400
+	}, {
+		"Status": "Not Executed",
+		"Value": 350
+	}]
+},
+{
+	"TestCases" : [{
+		"TestCase": "UAT",
+		"testingcase": 1366.62,
+		"color": "#FF0F00"
+	}],
+	"Defects" : [{
+	  "DefectName": "Defect1",
+	  "Count": 0,
+	  "color": "#FF0F00"
+	}, {
+	  "DefectName": "Defect2",
+	  "Count": 0,
+	  "color": "#FF6600"
+	}, {
+	  "DefectName": "Defect3",
+	  "Count": 0,
+	  "color": "#FF9E01"
+	}, {
+	  "DefectName": "Defect4",
+	  "Count": 0,
+	  "color": "#FCD202"
+	}, {
+	  "DefectName": "Defect5",
+	  "Count": 0,
+	  "color": "#F8FF01"
+	}],
+	"passedCases":[{
+		"title": "Passed",
+		"value": 8552
+	}, {
+		"title": "Failed",
+		"value": 2599
+	},{
+		"title": "Blocked",
+		"value": 889
+	}],
+	"Priorities": [{
+		"title": "Low defects",
+		"value": 390
+	}, {
+		"title": "Medium defects",
+		"value": 160
+	}, {
+		"title": "High Defects",
+		"value": 93
+	}, {
+		"title": "Critical Defects",
+		"value": 64
+	}],
+	"Completion": [{
+		"Status": "Executed",
+		"Value": 700
+	}, {
+		"Status": "Not Executed",
+		"Value": 650
+	}]
+}

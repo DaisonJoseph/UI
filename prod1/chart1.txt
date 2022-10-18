@@ -1,0 +1,5 @@
+<script src="../devops/assets/testapp/amcharts.js"></script>
+<script src="../devops/assets/testapp/export.min.js"></script>
+<script src="../devops/assets/testapp/min.js"></script>
+<link rel="stylesheet" href="../devops/assets/testapp/export.css" type="text/css" media="all" />
+<script src="../devops/assets/testapp/light.js"></script>

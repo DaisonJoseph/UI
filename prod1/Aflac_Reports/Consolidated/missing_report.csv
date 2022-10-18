@@ -1,0 +1,2478 @@
+calling_component_name,called_component_type,application_name,application_owner,instance
+AP102S9,COBOL,Actuarial,"Hutto, Amy",Columbus
+AP102S8,COBOL,Actuarial,"Hutto, Amy",Columbus
+AP10400,COBOL,Actuarial,"Hutto, Amy",Columbus
+AP10500,COBOL,Actuarial,"Hutto, Amy",Columbus
+AP10600,COBOL,Actuarial,"Hutto, Amy",Columbus
+NC232RE2,COBOL,New Business Scorecard,"Hutto, Amy",Columbus
+APSOL000,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL001,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL100,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL110,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL120,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL130,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL140,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL150,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL160,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL200,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL210,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL220,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL230,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL250,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL260,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL300,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL310,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL400,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL410,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL420,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL430,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL500,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL510,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL520,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL530,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL600,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL620,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL800,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL900,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL910,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL920,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL930,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL940,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL950,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL960,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL970,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL980,COBOL,Actuarial,"Hutto, Amy",Columbus
+APSOL990,COBOL,Actuarial,"Hutto, Amy",Columbus
+NC226RE2,COBOL,New Business Scorecard,"Hutto, Amy",Columbus
+NPAO0666,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+AVCO0100,COBOL,Actuarial,"Hutto, Amy",Columbus
+NBCO0997,COBOL,Batch Trac,"Hutto, Amy",Columbus
+PCCO0000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+NBINQ001,COBOL,Batch Trac,"Hutto, Amy",Columbus
+POCO9TST,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+NP14001,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP11096B,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP111T1,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP11112,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP16470,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP11095C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP11099C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+COBNAT,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS300,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS302,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS304,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS306,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS308,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS310,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS312,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS368,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS372,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOS400,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NBCODRVR,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBCKWX34,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBCKWX35,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBCKWX38,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBCKWX39,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NC313RE2,COBOL,New Business Scorecard,"Hutto, Amy",Columbus
+NBCO0840,COBOL,Batch Trac,"Hutto, Amy",Columbus
+POLICYAS,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+CPCO007A,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0272,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0403,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0404,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0445,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0446,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0447,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO046A,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCO0875,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+PCABB010,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+APPSABNW,DCLGEN,Actuarial,"Hutto, Amy",Columbus
+NP00020X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CPUGMMS1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPUGMMS2,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIAFLHS,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSGRMST,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+APPSABNC,DCLGEN,Actuarial,"Hutto, Amy",Columbus
+CPSGCPRI,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDGRPAD,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDGPN01,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFGPN01,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFGRPAD,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPNO0020,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+COCBS090,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CODATEM,DCLGEN,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CODASEC,DCLGEN,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCC7080,COPYBOOK,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOP011,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCOP420,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+COCC6080,DCLGEN,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CPC6000X,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000I,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000O,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000J,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000C,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000L,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPC6000K,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPCC0111,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPCC0112,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+FGCPM,MAPS,Life 70 - General Accounting,"Hutto, Amy",Columbus
+FGPM,COBOL,Life 70 - General Accounting,"Hutto, Amy",Columbus
+PMRREAD1,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+NPCU001X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NBDS0030,DCLGEN,Batch Trac,"Hutto, Amy",Columbus
+NBCS0321,DCLGEN,Batch Trac,"Hutto, Amy",Columbus
+NBFS0321,DCLGEN,Batch Trac,"Hutto, Amy",Columbus
+NBT2,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBT3,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NBXM1,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NB85,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NB90,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NP111,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NFCICONT,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCIAGNM,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCICUDT,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCICUST,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCILFBD,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCILFSP,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NFCIRQUR,DCLGEN,New Business Scorecard,"Hutto, Amy",Columbus
+NP11097,MAPS,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070I,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070O,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070J,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070L,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPC0070K,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPCB0227,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPCU0015,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NVCALL,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CPCCP123,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPCCP126,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPCCP128,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPCCP124,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIISTDB,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIEVENT,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIREQST,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIINVOI,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIRESPS,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSSEVNT,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSSHINV,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPUSHINV,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSSREQU,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSSRESP,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSSINVO,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPUSRESP,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHEVNT,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHINVO,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHREQ1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHRES1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHSCN1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPISCANL,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPISCANE,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSBNKDC,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSBNKDN,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPUSREQ1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPUSREQU,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSLANGI,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFMI001,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFAI001,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHSCE1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPIHPORE,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSINVO,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSRES1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSSDE1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSSCN1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSPOR1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSREQ1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDSEVNT,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPCCP020,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+POCC0633,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+PCCB9003,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PMCP120X,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120I,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120O,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120J,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120C,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120L,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCP120K,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCC0130,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMMO130,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMMO140,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMMO145,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMMO141,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMMO160,DCLGEN,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+POC5000X,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000I,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000O,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000J,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000C,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000L,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POC5000K,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POCC0001,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+POCO6100,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POCC7800,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+POCC7850,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+POCC7900,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+POCC7950,DCLGEN,Omega Reissues,"Hutto, Amy",Columbus
+PRC0100X,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100I,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100O,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100J,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100C,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100L,COBOL,Rerates,"Hutto, Amy",Columbus
+PRC0100K,COBOL,Rerates,"Hutto, Amy",Columbus
+PENRECG,DCLGEN,Policy Exceptions,"Hutto, Amy",Columbus
+ATTMATCH,COPYBOOK,Actuarial,"Hutto, Amy",Columbus
+CPSGCPRB,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSS162B,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSCONTR,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDDFLT1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPDDFLT2,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFEXOVR,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFGROVR,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFSTOVR,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFDFLT1,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPFDFLT2,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSAPYPR,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSOINVC,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+CPSINVCN,DCLGEN,Policy Remarks,"Hutto, Amy",Columbus
+WWCO0000,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Columbus
+COLHDRS,MAPS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+TCPDATA,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+PE10SPX,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE15X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE20SPX,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE25X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE22X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE23SPX,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE77X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE78X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE10X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE20X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE23X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE40X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PE50X,COBOL,Policy Exceptions,"Hutto, Amy",Columbus
+PCEB1103,EZPLUS,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1130,EZPLUS,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1104,EZPLUS,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1135,EZPLUS,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CAR200,PROC,Actuarial,"Hutto, Amy",Columbus
+ARSCC007,COBOL,Actuarial,"Hutto, Amy",Columbus
+CAR210,PROC,Actuarial,"Hutto, Amy",Columbus
+ARCB0630,COBOL,Actuarial,"Hutto, Amy",Columbus
+NB11X,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NB12X,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NB13X,COBOL,Batch Trac,"Hutto, Amy",Columbus
+NB15X,COBOL,Batch Trac,"Hutto, Amy",Columbus
+PLEB0070,COBOL,Omega Lit,"Hutto, Amy",Columbus
+DATECARD,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+CPBTC005,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPBTC015,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPMMSAPC9,CONTROL_CARD,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+CPMMSTPC9,CONTROL_CARD,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+CPMMSAPC1,CONTROL_CARD,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+CPMMSTPC1,CONTROL_CARD,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+ACPMQ705,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ACPMQ715,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+CPLLADDR,CONTROL_CARD,Omega Lit,"Hutto, Amy",Columbus
+CPLOADDR,CONTROL_CARD,Omega Lit,"Hutto, Amy",Columbus
+CPOCVUPP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOGROUP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOIMAGP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOSCIMP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOLICY,PROC,Omega Reissues,"Hutto, Amy",Columbus
+CPOPLFRL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPLQ600M,CONTROL_CARD,Omega Lit,"Hutto, Amy",Columbus
+CPOOLFRL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOPLEFT,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOTOTAL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOLRQ2P,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPOLREQP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPLCAP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCRP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCCR,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCCX,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCCE,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCBR,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+APMRORGX,COBOL,Actuarial,"Hutto, Amy",Columbus
+DATAMAP,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+SPECOTH,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+SPECHIP,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+SPECACC,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+SPECDEN,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+SPECCAN,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+CPOADVSL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+CPODENTL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Columbus
+FGAB001X,COBOL,Life 70 - General Accounting,"Hutto, Amy",Columbus
+CPLUAP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLURP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLAEV,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLAP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLRP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLTBLG,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLUBR,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLUCX,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLUCR,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLPMTMA,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCMTMU,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLUMMC,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLCRC,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLBR,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLLBH,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+APS90000,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90010,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90015,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS99006,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90020,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90050,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90070,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS91050,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS91055,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS91060,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS90005,COBOL,Actuarial,"Hutto, Amy",Columbus
+APS99005,COBOL,Actuarial,"Hutto, Amy",Columbus
+CPLCC9D,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCRCF,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCCRRC,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLCOCI,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+SAPTYPE,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+CPLEDTIN,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLPDTIN,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLPNSRT,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLPNSSP,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CPLPNSSO,COBOL,Policy Remarks,"Hutto, Amy",Columbus
+CFG012,PROC,Life 70 - General Accounting,"Hutto, Amy",Columbus
+JAPANABC,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+NV5S2500,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NV5S0300,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+AP20000X,COBOL,Actuarial,"Hutto, Amy",Columbus
+APCARD,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+AP29000X,COBOL,Actuarial,"Hutto, Amy",Columbus
+PCEBHCR1,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEBHCR2,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEBHCR3,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEBHCR4,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+AP30000X,COBOL,Actuarial,"Hutto, Amy",Columbus
+AP40000X,COBOL,Actuarial,"Hutto, Amy",Columbus
+FATS,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+OPENMOBW,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+CJRPN000,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CJRPN010,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+CAPFAUTH,PROC,Actuarial,"Hutto, Amy",Columbus
+APCODEX,COBOL,Actuarial,"Hutto, Amy",Columbus
+APCODPT,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+AP10000X,COBOL,Actuarial,"Hutto, Amy",Columbus
+PG11PROD,COBOL,Omega Letter Generation,"Hutto, Amy",Columbus
+COMMPR,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+PCVE0120,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CNFMSAPC1,CONTROL_CARD,New Business Scorecard,"Hutto, Amy",Columbus
+NP50039X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP2000SX,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PPIE0100,COBOL,Policy Pages,"Hutto, Amy",Columbus
+NP49000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPAB020X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PREB0200,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0210,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0220,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0230,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0235,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0240,COBOL,Rerates,"Hutto, Amy",Columbus
+PCVE0495,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0496,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0310,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE041A,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0390,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0400,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0420,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+NPAB050X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP81001X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP81002X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP83000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PREB0081,COBOL,Rerates,"Hutto, Amy",Columbus
+NP85000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP85010X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP85011X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP85012X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PREB0080,COBOL,Rerates,"Hutto, Amy",Columbus
+NP84Z00X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP83650X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PCVE0500,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0015,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0120,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PREB0245,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0940,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0250,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0260,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0270,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0280,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0290,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0550,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0560,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0570,COBOL,Rerates,"Hutto, Amy",Columbus
+CNPST533,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNPST534,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNPST535,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNPST536,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP366,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP362,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP368,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PNP185S1,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPRBPRTX,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP30001,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP30002,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP30003,CONTROL_CARD,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP367,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP363,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNP369,PROC,Life 70 - Underwriting,"Hutto, Amy",Columbus
+APRETDTE,CONTROL_CARD,Rerates,"Hutto, Amy",Columbus
+PCEB5000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0415,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCVE0409,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CNVDOWNG,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+POEB0020,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0230,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0710,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0720,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+NVEB0200,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NVEB0320,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NVEB1510,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NPEB0521,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+CNVCOMRT,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NPEB0517,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPEB0519,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NVEB0230,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+NVCB0240,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+PCEB0033,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0012,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0002,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0003,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0013,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB2700,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0017,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0018,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0027,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0028,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0019,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0021,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0024,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0052,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0063,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0065,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPBE0070,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCPBR240,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+PGBE0005,COBOL,Omega Letter Generation,"Hutto, Amy",Columbus
+PPBE0010,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPBC0025,COBOL,Policy Pages,"Hutto, Amy",Columbus
+ICPB033,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB057P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB333,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB058,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB058S,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB062,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB063,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB064P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB066,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB067,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB067P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB068,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB069,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB069P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB071W,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB071P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB071B,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB073,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB073P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB074,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB077,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB077P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB078,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB079,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB079P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB082,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB083,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB083P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB087,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB088,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB088P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB089,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB098,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB099,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB100,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB100P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB102,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB103,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB103P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB107,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB104,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB104P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB061,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+ICPB061P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Columbus
+CPCB8351,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPCB8151,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+NATPROD,CONTROL_CARD,Actuarial,"Hutto, Amy",Columbus
+CNVACHST,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Columbus
+PCEB0008,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+NP39000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PCEB0751,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0752,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0753,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0805,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0995,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1670,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0290,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0280,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0511,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0102,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0155,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0015,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0113,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0284,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0286,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0901,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0550,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0110,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCCB010X,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC570,PROC,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0160,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0150,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC01070,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0025,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPYE0160,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0165,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0055,COBOL,Policy Pages,"Hutto, Amy",Columbus
+POEB0240,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB1655,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1660,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PLEB0015,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PCEB0850,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0650,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0660,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPFE0031,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPFE0040,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPBE0100,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB3375,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03011,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03012,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03013,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03014,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03021,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03022,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03023,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03024,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03031,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03032,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03033,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+CPC03034,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0030,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1665,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0040,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0050,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0055,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0446,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0500,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0508,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0510,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0530,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0608,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0609,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0255,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0900,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0090,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0118,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0046,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0855,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEBJLP0,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEBJLP1,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0035,EZPLUS,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPYE0200,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB0600,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPYE2000,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PMSA100X,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMSE0130,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PPIE0005,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0010,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0015,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB1430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1450,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPIE0025,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0030,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0035,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0040,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPIE0045,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0025,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0035,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0040,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0050,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0100,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0105,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0110,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0115,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB0228,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0061,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0155,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0350,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1200,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1210,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1215,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1220,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1225,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1230,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1240,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1250,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0605,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0620,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0625,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0810,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0815,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0329,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0330,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1600,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1320,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1330,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1340,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPYE0005,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0010,COBOL,Policy Pages,"Hutto, Amy",Columbus
+CPC670,PROC,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PMCLE005,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PPLE0005,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPLE0010,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPLE0015,COBOL,Policy Pages,"Hutto, Amy",Columbus
+CPR480,PROC,Rerates,"Hutto, Amy",Columbus
+PPXE0005,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPXE0010,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPXE0015,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PGXE0200,COBOL,Omega Letter Generation,"Hutto, Amy",Columbus
+PPYE1000,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE1200,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYA150X,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PLCE1510,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLCE1520,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PCEB0085,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1393,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PMSE0100,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMSE0110,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMSE0120,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PPFE0015,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPFE0020,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0060,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0065,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0070,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0075,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0080,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0085,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPYE0205,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB1400,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB1410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0820,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0910,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPFE0105,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PCEB0399,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PPFE0100,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PPFE0025,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PREB9010,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB9020,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB9000,COBOL,Rerates,"Hutto, Amy",Columbus
+PLEB0020,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0010,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0110,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0140,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0060,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0080,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0095,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0100,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PMCLE010,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCLE020,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCLE035,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCLE040,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PMCLE045,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+PLEB0030,COBOL,Omega Lit,"Hutto, Amy",Columbus
+POEB0030,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0005,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0100,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0105,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0170,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0220,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0500,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0145,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0290,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0250,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0288,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0180,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0190,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0770,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0730,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB510A,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0450,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0400,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0410,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0420,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0430,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0460,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0440,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0650,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0700,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0640,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB0715,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+POEB510C,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PLEB0320,COBOL,Omega Lit,"Hutto, Amy",Columbus
+PLEB0330,COBOL,Omega Lit,"Hutto, Amy",Columbus
+POEB510B,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PPEB0200,COBOL,Policy Pages,"Hutto, Amy",Columbus
+PREB0090,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB065A,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0651,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0675,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0655,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB066A,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0665,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0670,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0680,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0685,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB9920,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0160,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0660,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB7000,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB7010,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB7020,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0170,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0310,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0320,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0340,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0350,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0360,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0370,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0450,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0460,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0390,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0400,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0470,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0480,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0490,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0500,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0510,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0075,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0930,COBOL,Rerates,"Hutto, Amy",Columbus
+PRAB160X,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0601,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0603,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0605,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0610,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0620,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0640,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0645,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB0650,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1000,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1010,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1020,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1030,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1040,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1060,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1070,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1080,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1090,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1200,COBOL,Rerates,"Hutto, Amy",Columbus
+PREB1210,EZPLUS,Rerates,"Hutto, Amy",Columbus
+NP73010X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP71000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP71490X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP73015X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP72000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NP13380X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+NPTDSGX,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+APTDSGX,COBOL,Actuarial,"Hutto, Amy",Columbus
+PCEB0760,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0755,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0756,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0757,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+POEB0801,COBOL,Omega Reissues,"Hutto, Amy",Columbus
+PCEB0256,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0761,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0630,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0765,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0099,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0754,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCSLE860,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0905,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0420,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0445,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+PCEB0450,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+APCODS,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Columbus
+ZPERFMAN,CONTROL_CARD,Policy Exceptions,"Hutto, Amy",Columbus
+ZPMLTP,CONTROL_CARD,Policy Master Record Inquiry,"Hutto, Amy",Columbus
+NP01290X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Columbus
+PPBE0500,COBOL,Policy Pages,"Hutto, Amy",Columbus
+NAT2PROX,PROC,Actuarial,"Hutto, Amy",Columbus
+WWTENDER,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Columbus
+WWEB0001,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Columbus
+WWEB0002,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Columbus
+ZJEB0110,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Columbus
+ZJEB0115,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Columbus
+ZJEB0120,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Columbus
+ZJEB0080,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Columbus
+ZJEB0090,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Columbus
+NAT2PROD,PROC,Actuarial,"Hutto, Amy",Columbus
+POCO4550,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+JRCO1346,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+AP102S1,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP102S9,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP102S8,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP10300,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP10400,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP10500,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP10600,COBOL,Actuarial,"Hutto, Amy",Newyork
+PCCO0001,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NPCO2000,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NC232RE2,COBOL,New Business Scorecard,"Hutto, Amy",Newyork
+APSOL000,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL001,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL100,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL110,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL120,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL130,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL140,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL150,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL160,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL200,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL210,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL220,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL230,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL250,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL260,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL300,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL310,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL400,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL410,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL420,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL430,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL500,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL510,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL520,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL530,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL600,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL620,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL800,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL900,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL910,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL920,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL930,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL940,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL950,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL960,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL970,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL980,COBOL,Actuarial,"Hutto, Amy",Newyork
+APSOL990,COBOL,Actuarial,"Hutto, Amy",Newyork
+PCSLCDEL,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCO9900,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCSLC200,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCSLC300,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCSLC400,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCSLC600,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NC226RE2,COBOL,New Business Scorecard,"Hutto, Amy",Newyork
+PCCO0160,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPCO0010,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0020,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+JRCO4544,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+JRCO4546,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPAO0666,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP14208B,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+POCO4600,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+FGXPM,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+NBCO0997,COBOL,Batch Trac,"Hutto, Amy",Newyork
+POCO7900,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+NPCO0222,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCCO0000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PRCO0100,COBOL,Rerates,"Hutto, Amy",Newyork
+IOCO0002,COBOL,New Business Scorecard,"Hutto, Amy",Newyork
+NBINQ001,COBOL,Batch Trac,"Hutto, Amy",Newyork
+JRCO0004,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+JRCO0005,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NBCKWXA1,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXA2,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXR0,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXR1,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXR2,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXR3,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXR5,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX33,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX50,COBOL,Batch Trac,"Hutto, Amy",Newyork
+PCCO0210,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCO6600,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCO7800,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCO9TST,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+ATMO1000,COBOL,Actuarial,"Hutto, Amy",Newyork
+NBCO0890,COBOL,Batch Trac,"Hutto, Amy",Newyork
+PLCO0030,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCO0010,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCO0020,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PCCO0155,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NBCO3990,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO3785,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NP14001,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0225,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11096B,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP111S0,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP111S1,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP111S8,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP111S9,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP111T1,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBCKWX02,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX03,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXV1,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NP11101,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11102,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11103,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11104,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11105,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11106,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11107,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11108,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11110,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11112,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBCO3745,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO3140,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO3145,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NP11120,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11121,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11123,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11125,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11127,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11130,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP16400,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP16410,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP16470,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11150,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11151,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11161,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11162,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11163,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11164,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11170,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11171,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11172,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11173,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBCO0080,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NP11180,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11181,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBCO0085,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0090,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO3792,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0095,COBOL,Batch Trac,"Hutto, Amy",Newyork
+PCCO6600,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NP14252,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0140,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11096C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11097C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11098C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11095C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11099C,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+COBNAT,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS316,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS320,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS300,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS302,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS304,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS306,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS308,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS310,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS312,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS660,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS666,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS368,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS372,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS340,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS350,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCOS400,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NBCKWXA4,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCODRVR,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWXXX,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX00,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0999,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX23,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX24,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX25,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX26,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX27,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX28,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX29,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX30,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX31,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX32,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX34,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX35,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX36,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX37,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX38,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX39,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX40,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX43,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX45,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX46,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX10,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX11,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX21,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX22,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX12,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX13,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX15,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX16,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX17,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX18,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX19,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX49,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX01,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX04,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX05,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX06,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX07,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX08,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCKWX09,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NC313RE2,COBOL,New Business Scorecard,"Hutto, Amy",Newyork
+NBCO0800,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0805,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0810,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0815,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0820,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0825,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0830,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0835,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0840,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0845,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0855,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO0895,COBOL,Batch Trac,"Hutto, Amy",Newyork
+POCO6940,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+CPCO0A00,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0A05,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0A10,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0A15,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0A20,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0A30,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0110,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0120,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0130,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0140,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0150,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0160,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0E20,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0E30,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0E40,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+PMCOP130,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCOP140,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCOP135,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCOP145,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCOP150,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCOP160,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PCAOC230,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POLICYAS,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+CPCO0030,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0040,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0045,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0052,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0060,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO007A,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO007W,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0070,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0075,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0080,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0090,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO010W,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0100,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0135,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO014W,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0155,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0170,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0171,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0180,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0190,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0200,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0205,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0210,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0215,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0220,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0230,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0240,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0250,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0260,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0265,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0270,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0271,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0280,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0282,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0290,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0295,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0300,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0305,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0310,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0315,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0320,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0322,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0330,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0340,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0345,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0350,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0352,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0355,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0360,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0361,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0362,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0363,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0370,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0380,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0390,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0391,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0392,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0395,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0397,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0400,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0401,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0402,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0403,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0404,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0405,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0406,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0407,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0408,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0409,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0410,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0411,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0415,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0416,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0417,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0420,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0421,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0422,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0425,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0426,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0427,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0430,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0431,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0432,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0435,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0436,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0437,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0440,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0441,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0442,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0444,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0445,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0446,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0447,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0448,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0449,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0450,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0451,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0452,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0455,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0456,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO046A,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0460,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0461,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0462,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0463,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0464,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0465,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0466,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0467,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0468,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0469,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0470,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0471,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0472,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0473,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0474,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0475,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0480,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0481,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0482,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0483,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0484,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0490,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0491,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0492,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0493,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0494,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0495,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0496,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0497,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0499,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0500,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0505,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0507,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0510,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0511,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0512,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0515,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO052A,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO052I,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0520,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0522,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0524,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0525,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0526,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0527,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0530,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0535,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0540,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0545,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0550,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0560,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0570,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0575,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0580,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0585,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0590,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0595,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0600,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0605,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0610,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0620,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0630,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0635,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0640,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0650,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0652,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0655,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0658,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0660,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0670,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0674,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0675,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0676,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0677,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0678,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0679,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0680,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0681,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0682,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0690,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0695,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0700,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0710,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0715,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0720,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0730,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0740,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0750,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0755,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0760,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0765,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0770,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0775,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0780,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0790,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0795,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0800,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0810,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0820,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0830,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0835,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0840,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0850,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0860,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0870,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0875,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0880,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0890,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0900,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0902,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0905,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0910,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0915,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0930,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0940,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0945,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0950,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0951,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0952,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0955,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0960,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0970,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0975,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0980,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0985,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0990,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0995,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0996,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCO0997,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+POCO4700,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PRCO9900,COBOL,Rerates,"Hutto, Amy",Newyork
+PCCO0151,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCO0152,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCO0153,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCO0154,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCO4500,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCABB010,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCO4800,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+NPCO0160,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBCO5110,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO5101,COBOL,Batch Trac,"Hutto, Amy",Newyork
+PCAOC231,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPCO6000,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+NBCO0020,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCO3830,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NPCO0010,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0015,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0020,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0022,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0024,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0030,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0031,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0040,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0045,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0425,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCO0700,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP10030X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP11002X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NVCO0310,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCO0320,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PMCOP120,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+POCO5000,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PMCCNAV0,COPYBOOK,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCCNAV1,COPYBOOK,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCBNAV0,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+CORRTRK,COPYBOOK,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+CORRDSK,COPYBOOK,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NP11SGM,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+CPCCP002,COPYBOOK,Policy Remarks,"Hutto, Amy",Newyork
+CPCCP001,COPYBOOK,Policy Remarks,"Hutto, Amy",Newyork
+CPCCP060,COPYBOOK,Policy Remarks,"Hutto, Amy",Newyork
+NP00020X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+POCON065,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PMTRLRCO,COPYBOOK,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+CPCO0050,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+APPSABNW,DCLGEN,Actuarial,"Hutto, Amy",Newyork
+APPSABNC,DCLGEN,Actuarial,"Hutto, Amy",Newyork
+NFCCNAV0,COPYBOOK,New Business Scorecard,"Hutto, Amy",Newyork
+NFCCNAV1,COPYBOOK,New Business Scorecard,"Hutto, Amy",Newyork
+NFCBNAV0,COBOL,New Business Scorecard,"Hutto, Amy",Newyork
+PCCB0405,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NCMCCORR,COPYBOOK,New Business Scorecard,"Hutto, Amy",Newyork
+PE51LOBM,COPYBOOK,Policy Exceptions,"Hutto, Amy",Newyork
+PE51LOBA,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+NPCB0401,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PMABDEB0,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+NP00020,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PMCONAV0,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PCAOR010,COPYBOOK,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NPPSTTBL,COPYBOOK,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCCB0409,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0407,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PE51LOB,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PMCC0130,COPYBOOK,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+POCC8000,COPYBOOK,Omega Reissues,"Hutto, Amy",Newyork
+POCU8000,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+COCCL077,COPYBOOK,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+POCOS169,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCOS10A,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCO0200,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCOS099,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCOS16F,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCOS16E,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCOGE01,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PPCC8200,COPYBOOK,Policy Pages,"Hutto, Amy",Newyork
+PPCU8200,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PRCCMISC,COPYBOOK,Rerates,"Hutto, Amy",Newyork
+PRCCMPRE,COPYBOOK,Rerates,"Hutto, Amy",Newyork
+PRCCPLAN,COPYBOOK,Rerates,"Hutto, Amy",Newyork
+PRCCPPRM,COPYBOOK,Rerates,"Hutto, Amy",Newyork
+POCON001,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+CPCB3004,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB3005,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+APECE100,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+PE10SPX,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE15X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE20SPX,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE25X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE22X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE23SPX,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+APECE300,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+PE10X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE20X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE23X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE40X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+PE50X,COBOL,Policy Exceptions,"Hutto, Amy",Newyork
+ARRA0100,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCC015,COBOL,Actuarial,"Hutto, Amy",Newyork
+TCPDATA,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+ARSCC230,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCC701,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCE102,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE020,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE025,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCC028,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCE188,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE121,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE134,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE136,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE138,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE141,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE151,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARCB0600,COBOL,Actuarial,"Hutto, Amy",Newyork
+AREB0620,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AREB0350,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AREB0360,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE010,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE030,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE035,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE050,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AVEB0010,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCC103,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCC104,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCC105,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCC106,COBOL,Actuarial,"Hutto, Amy",Newyork
+ARSCE451,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARSCE452,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ATAB0100,COBOL,Actuarial,"Hutto, Amy",Newyork
+ATCB0300,COBOL,Actuarial,"Hutto, Amy",Newyork
+ATCB0310,COBOL,Actuarial,"Hutto, Amy",Newyork
+ATCB0320,COBOL,Actuarial,"Hutto, Amy",Newyork
+ATCB0330,COBOL,Actuarial,"Hutto, Amy",Newyork
+AREB0130,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AVEB0020,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+ARVE0300,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AXCU0015,COBOL,Actuarial,"Hutto, Amy",Newyork
+NB15X,COBOL,Batch Trac,"Hutto, Amy",Newyork
+PCCB0130,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PLEB0070,COBOL,Omega Lit,"Hutto, Amy",Newyork
+DATECARD,CONTROL_CARD,Actuarial,"Hutto, Amy",Newyork
+CPCB7160,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB5002,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB5004,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0710,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0010,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0174,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0176,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+NVCB4020,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB4030,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB4010,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+CPCB0052,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0688,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0695,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0780,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0200,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0700,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2190,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1791,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0134,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0136,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0799,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+NPCB0899,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+CPCB7065,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CCPFT200,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+CCPST198,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0185,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0020,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0030,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0110,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0148,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0152,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0851,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0856,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0172,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0161,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0895,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0440,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0450,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+PCCB8499,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPCB0614,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0612,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0273,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0276,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2054,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2053,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2056,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0262,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0275,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0257,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0258,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1041,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0859,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2105,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2115,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB7001,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB8500,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB8530,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB8510,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB7012,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB7015,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB7021,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB8521,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0263,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0266,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0268,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0262,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0264,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0266,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0268,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0281,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0284,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0286,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0290,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0292,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0300,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0055,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0305,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0302,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0300,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0310,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0320,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0321,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0322,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0330,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0340,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0350,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0360,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0380,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0050,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0352,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0051,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0052,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2110,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB2125,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0400,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0410,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0420,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+ATEB0030,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+CPEB0130,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0962,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1080,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB3003,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB3009,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1065,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1042,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1044,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0878,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0921,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0924,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0925,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0926,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0927,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0951,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0942,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0936,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0939,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1921,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1942,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB1939,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0941,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0941,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0932,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0933,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0934,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0935,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0940,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1941,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1932,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1940,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0990,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0994,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0202,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0203,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0302,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0303,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0402,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0403,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0502,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0503,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0504,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0505,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0511,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0512,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0514,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0515,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0858,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1570,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0922,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0924,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0926,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB0944,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB1922,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPCB1944,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPCB3008,COBOL,Policy Remarks,"Hutto, Amy",Newyork
+CPEB6030,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB6040,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB6050,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB6060,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB6070,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+PCCB0655,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0700,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPLLADDR,CONTROL_CARD,Omega Lit,"Hutto, Amy",Newyork
+CPLOADDR,CONTROL_CARD,Omega Lit,"Hutto, Amy",Newyork
+CPOCVUPP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOGROUP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOIMAGP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOCVRUP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOPLFRL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOPLEFT,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOTOTAL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOLRQ2P,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPOLREQP,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+NPCB3100,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+CPOADVSL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+CPODENTL,CONTROL_CARD,Omega Reissues,"Hutto, Amy",Newyork
+NPCB0920,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCCB5000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+FGAB001X,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+NV5S0100,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NV5S8100,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NV5S0105,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NV5S8105,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+FGEB0800,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0901,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0902,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+AFG012,PROC,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0140,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0170,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0180,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0190,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0215,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0350,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0360,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+PCCB8209,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8211,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+FGEB0110,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0060,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0070,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+NVEB0001,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0002,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+FGEB0042,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0390,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0400,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0059,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0550,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0300,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0310,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0320,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0330,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGCB0225,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGCB0230,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0700,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0050,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0090,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0010,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+CONVPMR,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+FGEB0335,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGEB0275,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+ACPA0510,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+AP20000X,COBOL,Actuarial,"Hutto, Amy",Newyork
+NVEB1520,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+AP25APT,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP26PROG,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+APCARD,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+APMRORGX,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP40005C,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP40020C,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP40025E,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40MER,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40MER1,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP40MER2,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40MVP,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP400AQ,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40PORD,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U3,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U4,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U5,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U6,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U7,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP4006U8,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40MDSP,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP30000X,COBOL,Actuarial,"Hutto, Amy",Newyork
+AP30052,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP30053,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+AP40000X,COBOL,Actuarial,"Hutto, Amy",Newyork
+FATS,CONTROL_CARD,Actuarial,"Hutto, Amy",Newyork
+AJRPN000,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+AJRPN010,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+AAPFAUTH,PROC,Actuarial,"Hutto, Amy",Newyork
+PCCB0702,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NBCB0011,COBOL,Batch Trac,"Hutto, Amy",Newyork
+APCODEX,COBOL,Actuarial,"Hutto, Amy",Newyork
+APCODPT,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+APCODES,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+AP26PTB,EZPLUS,Actuarial,"Hutto, Amy",Newyork
+PG11PROD,COBOL,Omega Letter Generation,"Hutto, Amy",Newyork
+COMMPR,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCBP370,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCVE0120,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB0370,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0380,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NBCBCMCL,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBRTLF,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBAWES,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBCOMP,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBWE95,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBWE98,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NBCBFTPP,COBOL,Batch Trac,"Hutto, Amy",Newyork
+NP50039X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP2000SX,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPAB010,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB2550,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1050,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0085,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0796,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PPIE0100,COBOL,Policy Pages,"Hutto, Amy",Newyork
+NPEB0700,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0019,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0018,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP49000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB3016,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3017,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB3050,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPAB020X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0211,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0350,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB6010,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PREB0200,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0210,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0220,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0230,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0235,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0240,COBOL,Rerates,"Hutto, Amy",Newyork
+NPEB0045,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCVE0495,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0496,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NBPE0100,EZPLUS,Batch Trac,"Hutto, Amy",Newyork
+NPEB0201,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0200,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB030A,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB030,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0090,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0095,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1055,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB3030,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9021,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0092,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1030,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1040,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1045,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1047,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1050,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1052,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9520,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9525,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0602,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9070,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9550,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9555,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9625,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9080,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9560,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9565,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9630,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9090,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9570,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9575,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9635,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9100,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9580,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9585,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9640,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9130,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9590,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9595,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9645,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9522,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9521,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB6080,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB6085,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCVE041A,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0390,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0400,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NPCB0410,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP30080E,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCVE0420,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NPEB0050,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0004,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0115,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0001,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPAB050X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP81001X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP81002X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP83000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PREB0081,COBOL,Rerates,"Hutto, Amy",Newyork
+NP85000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP85010X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP85011X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP85012X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PREB0080,COBOL,Rerates,"Hutto, Amy",Newyork
+NP84Z00X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP83650X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0118,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0015,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP30020,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP30030,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NP30040,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0142,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0141,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0110,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0120,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0095,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCE0000,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0028,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0029,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+FGCB0420,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+FGCB0440,COBOL,Life 70 - General Accounting,"Hutto, Amy",Newyork
+NPCB0172,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0177,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1172,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1177,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0195,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0180,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0546,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB1176,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1176,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1170,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0174,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0194,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0195,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NVEB0502,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPCB2172,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCVE0500,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB0120,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0100,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+POEB0015,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0120,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+NVEB0390,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB010L,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0440,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0450,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0460,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0470,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0480,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PREB0245,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0940,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0250,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0260,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0270,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0280,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0290,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0550,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0560,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0570,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB0020,COBOL,Rerates,"Hutto, Amy",Newyork
+NPCB0445,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB5050,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0642,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0010,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PPCB0130,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPCB0040,COBOL,Policy Pages,"Hutto, Amy",Newyork
+NPCB0055,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0100,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0180,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0175,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0185,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0701,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0710,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0720,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0730,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0702,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0740,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0741,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0711,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0716,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0713,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0714,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0715,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0760,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0016,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0708,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0315,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0370,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB2100,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0505,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0535,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0516,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3540,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0125,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0676,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0811,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0051,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0500,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0855,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3560,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3580,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3590,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3600,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0310,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9036,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9012,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9014,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB9015,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0580,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NBPE0200,EZPLUS,Batch Trac,"Hutto, Amy",Newyork
+NPCB0350,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0509,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0002,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0040,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+ANP362,PROC,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0514,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3650,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3110,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0143,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB2070,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB2074,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0210,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0220,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0005,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0508,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPCB0515,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0150,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB3100,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+ANP363,PROC,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0605,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+APRETDTE,CONTROL_CARD,Rerates,"Hutto, Amy",Newyork
+PCEB5000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCVE0415,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NPEB0300,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCVE0409,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB0290,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0300,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0500,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0515,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB4000,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1390,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1400,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0280,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0410,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0600,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0610,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0620,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0630,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0640,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0650,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCBP240,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0250,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB1900,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB1830,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1440,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0510,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0520,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0530,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0560,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0570,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0340,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB2000,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0270,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+POEB0020,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0230,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCEB0710,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0720,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB1600,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1610,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPEB0518,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NVEB3003,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3004,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3005,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3012,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3006,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3008,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB3009,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCB0900,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+COCB1000,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPEB0501,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NVEB0501,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0503,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0200,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0320,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1510,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPEB0521,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+CNVCOMRT,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB2050,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB9999,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NPEB0517,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB0519,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NVEB0230,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB0240,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCCB0024,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB2700,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBZ3XM,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0017,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0018,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0027,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0028,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0019,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0021,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0024,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+WWCB0100,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Newyork
+CPEB0450,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+CPEB0455,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+PCEB0052,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0063,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0065,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+FGEB0220,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+PCCB0020,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPBE0070,COBOL,Policy Pages,"Hutto, Amy",Newyork
+NPEB7000,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB7010,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+NPEB1020,EZPLUS,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PPFC0005,COBOL,Policy Pages,"Hutto, Amy",Newyork
+FGEB0250,EZPLUS,Life 70 - General Accounting,"Hutto, Amy",Newyork
+PPFC0006,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PGBE0005,COBOL,Omega Letter Generation,"Hutto, Amy",Newyork
+PPBE0010,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPBC0025,COBOL,Policy Pages,"Hutto, Amy",Newyork
+ICPB036O,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+ICPB064P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+ICPB087P,CONTROL_CARD,Policy Remarks,"Hutto, Amy",Newyork
+CNVACHST,CONTROL_CARD,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+APCODS,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB1680,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0008,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0506,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0200,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0031,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBRULE,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVCB0700,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NP39000X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCEB0751,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0752,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0753,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0805,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+JRCB0014,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCEB0995,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1670,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0080,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0081,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0066,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0107,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0501,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0101,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0105,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCB0103,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+NVEB1380,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB0550,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB1820,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVCB1810,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCEB0511,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0102,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POEB0155,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCCB8320,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB0400,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCEB0015,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POEB0113,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0284,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0286,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCCB0505,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0004,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0008,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8200,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POCB0030,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCCB8630,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8202,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8203,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NP98586,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PCCB8213,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8215,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8219,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8223,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8226,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8231,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB1015,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0901,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0901,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBPTRA,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POEB0550,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCEB0110,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB010X,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0040,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0050,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0052,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBTRMP,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0160,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0150,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVCB2030,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCCB0610,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0181,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0176,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPYE0160,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPFC0010,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0165,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0055,COBOL,Policy Pages,"Hutto, Amy",Newyork
+POCB0090,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0091,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0092,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0240,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCCB1650,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1655,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1660,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0140,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PLEB0015,COBOL,Omega Lit,"Hutto, Amy",Newyork
+AECBN925,COBOL,Actuarial,"Hutto, Amy",Newyork
+AECBN927,COBOL,Actuarial,"Hutto, Amy",Newyork
+PCEB0850,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+APC305,PROC,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0650,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0660,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPFE0031,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPFC0035,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPFE0040,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPBE0100,COBOL,Policy Pages,"Hutto, Amy",Newyork
+CPC03011,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03012,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03013,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03014,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03021,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03022,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03023,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03024,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03031,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03032,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03033,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPC03034,CONTROL_CARD,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0030,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1665,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0030,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0040,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0050,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0055,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0446,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0448,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0447,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0500,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0508,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0510,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NVEB1530,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1535,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+NVEB1540,EZPLUS,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+PCEB0530,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+APC990,PROC,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0608,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0609,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0250,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0252,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0255,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0900,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0022,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0725,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0090,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8120,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8123,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8300,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8101,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8102,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8103,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8105,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8113,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8115,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8119,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8122,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8124,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8125,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8126,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8131,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8142,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8143,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8144,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8145,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8146,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8147,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8148,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8149,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8150,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8151,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8152,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8118,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8250,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+JRCB0005,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",Newyork
+POEB0118,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCCB8106,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8107,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8109,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8110,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8111,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8114,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8116,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8121,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8132,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8134,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8137,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POEB0046,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCRB0835,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0855,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBPMEX,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0900,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBLOXM,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPYE0200,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PRAB155X,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB1540,COBOL,Rerates,"Hutto, Amy",Newyork
+PCEB0600,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+CPEB0730,EZPLUS,Policy Remarks,"Hutto, Amy",Newyork
+PPYE2000,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PMSA100X,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMSE0130,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PPIE0005,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0010,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0015,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCEB1430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1450,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPIE0025,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0030,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0035,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0040,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPIE0045,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCCB0121,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPYE0025,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0035,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0040,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0050,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0100,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0105,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0110,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0115,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCAB0060,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0061,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0150,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0155,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0350,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1200,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1210,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1215,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1220,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1225,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1230,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1240,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1250,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0451,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0452,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0453,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0454,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0455,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0456,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0457,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0458,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0459,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0460,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0461,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0603,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0605,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0620,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0625,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0810,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0815,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0721,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0278,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0285,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0286,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1320,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1330,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB1340,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPYE0005,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0010,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCCB0804,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0806,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+APC670,PROC,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PGXE0200,COBOL,Omega Letter Generation,"Hutto, Amy",Newyork
+PCEB0085,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB6000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PMSE0100,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMSE0110,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMSE0120,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PCCB0035,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0036,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPFE0015,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPFE0020,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0060,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0065,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0070,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0075,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0080,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0085,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYA0200,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPYE0205,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCCB0010,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0800,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0820,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0820,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCBRPXM,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPFE0105,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PCEB0399,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB0856,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8244,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB8212,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PPFE0100,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PPFE0025,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PREB9010,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB9020,COBOL,Rerates,"Hutto, Amy",Newyork
+PCCB0045,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PRCB9004,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9006,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9003,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9061,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB9000,COBOL,Rerates,"Hutto, Amy",Newyork
+PRAB200,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB1530,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB1520,COBOL,Rerates,"Hutto, Amy",Newyork
+PLCB0021,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0020,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCB0010,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0010,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCB0110,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0110,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCB0300,COBOL,Omega Lit,"Hutto, Amy",Newyork
+POCB0745,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PLEB0140,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCB0150,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0060,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0080,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0095,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0100,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLCB0030,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PLEB0030,COBOL,Omega Lit,"Hutto, Amy",Newyork
+PMAB991X,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+POCB0050,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+APM990,PROC,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+PMCBUTL2,COBOL,Policy Master Record Inquiry,"Hutto, Amy",Newyork
+POCB8249,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0030,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0005,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0100,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0105,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0170,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0220,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0500,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0145,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0290,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0250,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0288,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0180,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0190,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB3000,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0700,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0710,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0770,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0770,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0720,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0730,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0740,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB510A,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0600,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0605,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0500,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0510,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0450,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0400,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0410,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0420,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0430,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0460,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0440,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0650,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0700,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0640,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0640,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0641,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0642,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0643,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0150,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0715,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB0715,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0160,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POCB0750,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB510C,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+POEB510B,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PPEB0200,COBOL,Policy Pages,"Hutto, Amy",Newyork
+PRCB2003,COBOL,Rerates,"Hutto, Amy",Newyork
+PCCBROPA,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PRCB0010,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0090,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB9920,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9010,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0160,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9625,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9615,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9710,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9715,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9752,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9754,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB7000,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB7010,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB7020,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB9090,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0310,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0320,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0340,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0350,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0360,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0370,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0450,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0460,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0390,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0400,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0470,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0480,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0490,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0500,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0510,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0075,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB0900,COBOL,Rerates,"Hutto, Amy",Newyork
+PRCB0910,COBOL,Rerates,"Hutto, Amy",Newyork
+PRAB0920,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0930,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0601,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0603,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0605,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0610,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0620,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0640,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0645,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB0650,COBOL,Rerates,"Hutto, Amy",Newyork
+PRAB1000,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1000,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1010,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1020,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1030,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1040,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1060,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1070,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1080,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1090,COBOL,Rerates,"Hutto, Amy",Newyork
+PREB1200,COBOL,Rerates,"Hutto, Amy",Newyork
+NP98990,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PRCB0040,COBOL,Rerates,"Hutto, Amy",Newyork
+PCEB0630,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0760,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0755,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0756,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0757,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+POEB0801,COBOL,Omega Reissues,"Hutto, Amy",Newyork
+PCEB0256,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0761,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCCB7000,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0099,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0754,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0420,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0430,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0440,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0445,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+PCEB0450,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",Newyork
+NP01290X,COBOL,Life 70 - Underwriting,"Hutto, Amy",Newyork
+PPBE0500,COBOL,Policy Pages,"Hutto, Amy",Newyork
+NAT2NYP,PROC,Actuarial,"Hutto, Amy",Newyork
+WWCB0900,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Newyork
+WWEB0001,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Newyork
+WWEB0002,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",Newyork
+ZJEB0110,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJEB0115,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJEB0120,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJEB0080,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJEB0090,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJCB0100,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork
+ZJCB0200,COBOL,EAS - Emergency Advisory System,"Hutto, Amy",Newyork

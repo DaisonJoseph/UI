@@ -1,0 +1,26 @@
+business,component_name,type
+Account Payment Administration System,DCPBD800,JCL
+Actuarial,PCAEM010,JCL
+Associate License Data,DCLAD614,JCL
+Batch Trac,PCNBD001,JCL
+Beeline,PCSBD020,JCL
+Cash Disbursement System - Individual SunGuard (CDS),DCFCD615,JCL
+Commission Structure Creation System,PCHCD010,JCL
+Conversions (Cycle J IV - TracJ),PCCOD008,JCL
+"Credit Card
+",PCBHD340,JCL
+EAS - Emergency Advisory System,PCZJD020,JCL
+Express Reconciliation,PCASB010,JCL
+Flex One,PCFLD010,JCL
+Group Master,PCGMD010,JCL
+Life 70 (core batch processing stay on mainframe),PCPCD000,JCL
+Life 70 - General Accounting,PCFGD010,JCL
+Life 70 - Underwriting,DCNPD614,JCL
+New Business Scorecard,PCNFD004,JCL
+Omega Reissues,PCPOD010,JCL
+Policy Master Record Inquiry,PCPMD030,JCL
+Policy Pages,PCPPD200,JCL
+Policy Remarks,PCCPD009,JCL
+Rerates,PCPRD011,JCL
+Return Letters,PCNRD005,JCL
+Stock Bonus,PCFBD030,JCL

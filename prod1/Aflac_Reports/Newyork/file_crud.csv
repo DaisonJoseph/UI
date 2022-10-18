@@ -1,0 +1,171 @@
+component_name,component_type,App Name,App Owner,File_name,Open Mode,Closed,Read,Write,Rewrite,Start,Release,Delete,Sort,Merge,Optional
+AHCB0060,COBOL,Actuarial,"Hutto, Amy",IDB,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AHCB0060,COBOL,Actuarial,"Hutto, Amy",ODB,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AHCB0060,COBOL,Actuarial,"Hutto, Amy",OREPORT,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AHCB0200,COBOL,Actuarial,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+AHCB0200,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AHCB0210,COBOL,Actuarial,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+AHCB0210,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0010,COBOL,Actuarial,"Hutto, Amy",S-REPORT-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0010,COBOL,Actuarial,"Hutto, Amy",EXCLUSION-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0010,COBOL,Actuarial,"Hutto, Amy",POLICY-EXTRACT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+ARCB0010,COBOL,Actuarial,"Hutto, Amy",PRINT-FILE1,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0020,COBOL,Actuarial,"Hutto, Amy",FSRTA005-DETAIL-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0020,COBOL,Actuarial,"Hutto, Amy",EXCLUSION-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARCB0020,COBOL,Actuarial,"Hutto, Amy",PREMIUM-EXTRACT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+ARCB0020,COBOL,Actuarial,"Hutto, Amy",PRINT-FILE1,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+ARSCC600,COBOL,Actuarial,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARSCC600,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+ARSCC610,COBOL,Actuarial,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARSCC610,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+ARSCC620,COBOL,Actuarial,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ARSCC620,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",INPUT01A,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",INPUT01B,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",INPUT02A,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",INPUT02B,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",INPUT03,INPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+ATCB0012,COBOL,Actuarial,"Hutto, Amy",OUTPUT02,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0500,COBOL,Actuarial,"Hutto, Amy",PMR-IN-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0500,COBOL,Actuarial,"Hutto, Amy",PMR-OUT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0510,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0510,COBOL,Actuarial,"Hutto, Amy",CASH-VALUE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0510,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0510,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0510,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0520,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-MID-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0520,COBOL,Actuarial,"Hutto, Amy",CASH-VALUE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0520,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0520,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0520,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0530,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-ANS-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0530,COBOL,Actuarial,"Hutto, Amy",CASH-VALUE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0530,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0530,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0530,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0535,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-ANS-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0535,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0535,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0535,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0540,COBOL,Actuarial,"Hutto, Amy",CLI-RESV-INPUT-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0540,COBOL,Actuarial,"Hutto, Amy",CLO-RESV-EXTRACT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0540,COBOL,Actuarial,"Hutto, Amy",PRINT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0550,COBOL,Actuarial,"Hutto, Amy",CLI-UNERN-INPUT-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0550,COBOL,Actuarial,"Hutto, Amy",CLO-UNERN-EXTRACT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0550,COBOL,Actuarial,"Hutto, Amy",PRINT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0610,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0610,COBOL,Actuarial,"Hutto, Amy",CASH-VALUE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0610,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0610,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0610,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0620,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-MID-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0620,COBOL,Actuarial,"Hutto, Amy",CASH-VALUE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0620,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0620,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0620,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0630,COBOL,Actuarial,"Hutto, Amy",LONG-PREM-PAY-ANS-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0630,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0630,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0630,COBOL,Actuarial,"Hutto, Amy",ERROR-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0700,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-CURR-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0700,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0700,COBOL,Actuarial,"Hutto, Amy",EXCPT-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0750,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-PRIOR-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0750,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-C-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0750,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-P-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0750,COBOL,Actuarial,"Hutto, Amy",EXCPT-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0760,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-CURR-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0760,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-C-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0760,COBOL,Actuarial,"Hutto, Amy",EXCPT-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+AVCB0770,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-PRIOR-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+AVCB0770,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-CURR-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0770,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-IN-PR-ALL-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+AVCB0770,COBOL,Actuarial,"Hutto, Amy",INF-EXTR-OUT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+AVCB0770,COBOL,Actuarial,"Hutto, Amy",EXCPT-REPORT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+COCB0060,COBOL,Conversions (Cycle J IV - TracJ),"Hutto, Amy",WORK01,INPUT/INPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0020,COBOL,Life 70 - General Accounting,"Hutto, Amy",WORK01,INPUT/INPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0020,COBOL,Life 70 - General Accounting,"Hutto, Amy",WORK02,OUTPUT/OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",INPUT01,INPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",INPUT02,INPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",INPUT03,INPUT,Yes,No,No,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",OUTPUT01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",ERREPORT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+FGCB0100,COBOL,Life 70 - General Accounting,"Hutto, Amy",UACRRPT4,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0014,COBOL,Life 70 - Underwriting,"Hutto, Amy",REPL-CORRES-CODE-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0770,COBOL,Life 70 - Underwriting,"Hutto, Amy",PCINPUT-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0770,COBOL,Life 70 - Underwriting,"Hutto, Amy",DEPINFO-FILE,EXTEND,Yes,No,No,No,No,No,No,No,No,No
+NPCB0780,COBOL,Life 70 - Underwriting,"Hutto, Amy",DEPINFO-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0780,COBOL,Life 70 - Underwriting,"Hutto, Amy",CNVPEND-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0780,COBOL,Life 70 - Underwriting,"Hutto, Amy",T43CARD-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0780,COBOL,Life 70 - Underwriting,"Hutto, Amy",DEPINFO-FILE2,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",TRIGGER-SHIC,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",SEFSHICX-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",EOS-EXC-IN,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",EX-SEFSHICX-01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",EX-TRIG-FILE-01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",EXC-SEFSHICX-01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",EXC-TRIG-FILE-01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB0805,COBOL,Life 70 - Underwriting,"Hutto, Amy",POLRMK-OUTPUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB1111,COBOL,Life 70 - Underwriting,"Hutto, Amy",DEPINFO-IN,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB1111,COBOL,Life 70 - Underwriting,"Hutto, Amy",DEPINFO-OUT,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB2010,COBOL,Life 70 - Underwriting,"Hutto, Amy",CLI-PMR-ACTIVE-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+NPCB2010,COBOL,Life 70 - Underwriting,"Hutto, Amy",CLO-EXTRACT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB2010,COBOL,Life 70 - Underwriting,"Hutto, Amy",PRINT-FILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",CNTRL-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",POLICY-IN,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",POLICY-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",NONEOS-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",EOS-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9020,COBOL,Life 70 - Underwriting,"Hutto, Amy",EOS-NEW,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9026,COBOL,Life 70 - Underwriting,"Hutto, Amy",CNTRL-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB9026,COBOL,Life 70 - Underwriting,"Hutto, Amy",POLICY-IN,INPUT,Yes,No,No,No,No,No,No,No,No,No
+NPCB9026,COBOL,Life 70 - Underwriting,"Hutto, Amy",POLICY-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9026,COBOL,Life 70 - Underwriting,"Hutto, Amy",NONEOS-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCB9026,COBOL,Life 70 - Underwriting,"Hutto, Amy",SPLIT-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+NPCBP010,COBOL,Life 70 - Underwriting,"Hutto, Amy",WORK01,OUTPUT/OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0067,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",POLICY-MASTER-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCCB0067,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",OUT-TRAN-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0067,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",OUT-AUDIT-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0068,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC10-DATE-CARD,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0068,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",CASH-VALUE-LETTER,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PCCB0068,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC35-STATMSTR,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0068,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",LANGIDSW-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCCB0068,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",POLICY-REMARKS-FILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCB0204,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",INF1,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCCB0204,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",INF2,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCCB0204,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",OUT1,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PCCB0204,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",CONT,OUTPUT,No,No,Yes,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",SYS-ENVIRONMENT,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC38-STATMSTR,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PLAN-SERIES,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",DC10-PRE-CYCLE,,No,No,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",ODC38-STATMSTR,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",OREMARKS,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCCBTRML,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",OLOGFILE,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PCVC0410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",PMR-EXTRACT-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PCVC0410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",MSTRGRP,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PCVC0410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",EFSFILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+PCVC0410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",AGTLTR,OUTPUT,No,No,No,No,No,No,No,No,No,No
+PCVC0410,COBOL,Life 70 (core batch processing stay on mainframe),"Hutto, Amy",T183TRAN,OUTPUT,No,No,No,No,No,No,No,No,No,No
+PE51,COBOL,Policy Exceptions,"Hutto, Amy",TX-FILE-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PE51,COBOL,Policy Exceptions,"Hutto, Amy",FATAL-RPT-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PE51,COBOL,Policy Exceptions,"Hutto, Amy",NONFATAL-RPT-OUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PLCB0040,COBOL,Omega Lit,"Hutto, Amy",MISC-PREM,INPUT,No,Yes,No,No,No,No,No,No,No,No
+PLCB0040,COBOL,Omega Lit,"Hutto, Amy",RATE-BOOK,INPUT,No,Yes,No,No,Yes,No,No,No,No,No
+PLCB0040,COBOL,Omega Lit,"Hutto, Amy",MODE-FILE,INPUT,No,Yes,No,No,No,No,No,No,No,No
+PLCB0041,COBOL,Omega Lit,"Hutto, Amy",PHS-EFS-FILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+PLCB0041,COBOL,Omega Lit,"Hutto, Amy",PRINT-REPORT01,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+PRCB9002,COBOL,Rerates,"Hutto, Amy",PLAN-CONTROL,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PRCB9002,COBOL,Rerates,"Hutto, Amy",MISC-PREM-FILE,INPUT,Yes,Yes,No,No,No,No,No,No,No,No
+PRCB9002,COBOL,Rerates,"Hutto, Amy",PREMIUM-OUTPUT,OUTPUT,Yes,No,Yes,No,No,No,No,No,No,No
+WWCB901Z,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",DC10CARD,INPUT,Yes,No,No,No,No,No,No,No,No,No
+WWCB901Z,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",ENV-SYSTEM,INPUT,Yes,No,No,No,No,No,No,No,No,No
+WWCB901Z,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",INFILE,INPUT,Yes,No,No,No,No,No,No,No,No,No
+WWCB901Z,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",OTFILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
+WWCB901Z,COBOL,"Policy Services Workflow
+Owner: Amy","Hutto, Amy",EXFILE,OUTPUT,Yes,No,No,No,No,No,No,No,No,No
